@@ -1,0 +1,29 @@
+{
+  "app_version": 24,
+  "categories": [
+    {
+      "id": "giao_tiep",
+      "title": "Giao Tiếp"
+    },
+    {
+      "id": "chuyen_ngu",
+      "title": "Chuyển Ngữ"
+    },
+    {
+      "id": "nghe_hieu",
+      "title": "Nghe hiểu"
+    },
+    {
+      "id": "phat_am",
+      "title": "Phát Âm"
+    },
+    {
+      "id": "ngu_phap",
+      "title": "Ngữ Pháp"
+    },
+    {
+      "id": "tu_vung",
+      "title": "Từ Vựng"
+    }
+  ]
+}
