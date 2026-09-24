@@ -1,0 +1,246 @@
+{
+  "id": "phat_am",
+  "title": "Phát Âm",
+  "lessons": [
+    {
+      "id": "pa_1",
+      "title": "Bài 1: Âm /a/ ngắn",
+      "status": "active",
+      "type": "pronunciation",
+      "video_url": null,
+      "transcript": "1. Hướng dẫn khẩu hình: Miệng mở rộng vừa phải, lưỡi hạ thấp, âm ngắn gọn dứt khoát, giống 'a' trong tiếng Việt nhưng ngắn hơn.\n2. Từ vựng ví dụ:\n- Mann /man/ (người đàn ông)\n- Stadt /ʃtat/ (thành phố)\n- alt /alt/ (cũ)\n- Wasser /ˈvasɐ/ (nước)\n- machen /ˈmaxən/ (làm)\n3. Câu thực hành: Der alte Mann wohnt in der Stadt und trinkt Wasser.\n4. Lưu ý: /a/ ngắn, không kéo dài, khác với /aː/ dài."
+    },
+    {
+      "id": "pa_2",
+      "title": "Bài 2: Âm /aː/ dài",
+      "status": "active",
+      "type": "pronunciation",
+      "video_url": null,
+      "transcript": "1. Hướng dẫn khẩu hình: Miệng mở rộng hơn /a/, âm kéo dài gấp đôi, giống 'a' kéo dài.\n2. Từ vựng ví dụ:\n- Staat /ʃtaːt/ (nhà nước)\n- Abend /ˈaːbənt/ (buổi tối)\n- fragen /ˈfʁaːɡən/ (hỏi)\n- Name /ˈnaːmə/ (tên)\n- sagen /ˈzaːɡən/ (nói)\n3. Câu thực hành: Guten Abend, wie ist Ihr Name? - Ich heiße Anna und wohne im Staat Bayern.\n4. Lưu ý: Dấu hiệu nhận biết âm dài: aa, ah, hoặc a + 1 phụ âm. Ví dụ: Saal, fahren."
+    },
+    {
+      "id": "pa_3",
+      "title": "Bài 3: Âm /ɛ/ ngắn (e ngắn)",
+      "status": "active",
+      "type": "pronunciation",
+      "video_url": null,
+      "transcript": "1. Hướng dẫn khẩu hình: Miệng mở vừa, lưỡi hơi nâng, âm ngắn giống 'e' trong 'xe' tiếng Việt.\n2. Từ vựng ví dụ:\n- Bett /bɛt/ (giường)\n- denn /dɛn/ (vì)\n- essen /ˈɛsən/ (ăn)\n- kennen /ˈkɛnən/ (quen biết)\n- schnell /ʃnɛl/ (nhanh)\n3. Câu thực hành: Ich esse schnell im Bett, denn ich kenne das Restaurant.\n4. Lưu ý: /ɛ/ ngắn, thường viết là e + 2 phụ âm."
+    },
+    {
+      "id": "pa_4",
+      "title": "Bài 4: Âm /eː/ dài (e dài)",
+      "status": "active",
+      "type": "pronunciation",
+      "video_url": null,
+      "transcript": "1. Hướng dẫn khẩu hình: Môi hơi căng sang 2 bên, lưỡi nâng cao, âm dài, giống 'ê' kéo dài.\n2. Từ vựng ví dụ:\n- See /zeː/ (hồ)\n- gehen /ˈɡeːən/ (đi)\n- Tee /teː/ (trà)\n- leben /ˈleːbən/ (sống)\n- mehr /meːɐ/ (hơn)\n3. Câu thực hành: Ich gehe an den See und trinke Tee, ich lebe gern hier.\n4. Lưu ý: Dấu hiệu ee, eh, hoặc e + 1 phụ âm. Khác với /ɛ/ ngắn."
+    },
+    {
+      "id": "pa_5",
+      "title": "Bài 5: Âm /ɪ/ ngắn (i ngắn)",
+      "status": "active",
+      "type": "pronunciation",
+      "video_url": null,
+      "transcript": "1. Hướng dẫn khẩu hình: Môi thả lỏng, lưỡi hạ thấp hơn /iː/, âm ngắn dứt khoát, giống 'i' ngắn tiếng Việt.\n2. Từ vựng ví dụ:\n- bitte /ˈbɪtə/ (làm ơn)\n- Tisch /tɪʃ/ (bàn)\n- Fisch /fɪʃ/ (cá)\n- Kind /kɪnt/ (trẻ em)\n- wissen /ˈvɪsən/ (biết)\n3. Câu thực hành: Bitte, das Kind isst Fisch am Tisch und weiß viel.\n4. Lưu ý: /ɪ/ ngắn, khác /iː/ dài."
+    },
+    {
+      "id": "pa_6",
+      "title": "Bài 6: Âm /iː/ dài (ie)",
+      "status": "active",
+      "type": "pronunciation",
+      "video_url": null,
+      "transcript": "1. Hướng dẫn khẩu hình: Môi căng sang 2 bên như mỉm cười, lưỡi nâng cao phía trước, âm dài.\n2. Từ vựng ví dụ:\n- Liebe /ˈliːbə/ (tình yêu)\n- sie /ziː/ (cô ấy/họ)\n- Brief /bʁiːf/ (thư)\n- viel /fiːl/ (nhiều)\n- Bier /biːɐ/ (bia)\n3. Câu thực hành: Sie schreibt einen Brief mit viel Liebe und trinkt Bier.\n4. Lưu ý: Dấu hiệu ie, ih, hoặc i + 1 phụ âm. Luôn dài."
+    },
+    {
+      "id": "pa_7",
+      "title": "Bài 7: Âm /ɔ/ ngắn (o ngắn)",
+      "status": "active",
+      "type": "pronunciation",
+      "video_url": null,
+      "transcript": "1. Hướng dẫn khẩu hình: Môi tròn vừa, lưỡi hạ thấp, âm ngắn giống 'o' tiếng Việt.\n2. Từ vựng ví dụ:\n- oft /ɔft/ (thường)\n- Wort /vɔʁt/ (từ)\n- kommen /ˈkɔmən/ (đến)\n- Sonne /ˈzɔnə/ (mặt trời)\n- noch /nɔx/ (vẫn)\n3. Câu thực hành: Das Wort kommt oft noch bei Sonne.\n4. Lưu ý: /ɔ/ ngắn, thường o + 2 phụ âm."
+    },
+    {
+      "id": "pa_8",
+      "title": "Bài 8: Âm /oː/ dài (o dài)",
+      "status": "active",
+      "type": "pronunciation",
+      "video_url": null,
+      "transcript": "1. Hướng dẫn khẩu hình: Môi tròn chặt, lưỡi nâng, âm dài giống 'ô' kéo dài.\n2. Từ vựng ví dụ:\n- Boot /boːt/ (thuyền)\n- groß /ɡʁoːs/ (to lớn)\n- oben /ˈoːbən/ (ở trên)\n- wohnen /ˈvoːnən/ (sống)\n- rot /ʁoːt/ (đỏ)\n3. Câu thực hành: Das große Boot ist rot und wohnt oben.\n4. Lưu ý: Dấu hiệu oo, oh, hoặc o + 1 phụ âm."
+    },
+    {
+      "id": "pa_9",
+      "title": "Bài 9: Âm /ʊ/ ngắn (u ngắn)",
+      "status": "active",
+      "type": "pronunciation",
+      "video_url": null,
+      "transcript": "1. Hướng dẫn khẩu hình: Môi tròn nhẹ, lưỡi hạ thấp hơn /uː/, âm ngắn.\n2. Từ vựng ví dụ:\n- Mutter /ˈmʊtɐ/ (mẹ)\n- und /ʊnt/ (và)\n- Stunde /ˈʃtʊndə/ (giờ)\n- kurz /kʊʁts/ (ngắn)\n- Fluss /flʊs/ (sông)\n3. Câu thực hành: Mutter und Kind haben eine kurze Stunde am Fluss.\n4. Lưu ý: /ʊ/ ngắn, khác /uː/ dài."
+    },
+    {
+      "id": "pa_10",
+      "title": "Bài 10: Âm /uː/ dài (u dài)",
+      "status": "active",
+      "type": "pronunciation",
+      "video_url": null,
+      "transcript": "1. Hướng dẫn khẩu hình: Môi tròn chặt, lưỡi nâng cao phía sau, âm dài.\n2. Từ vựng ví dụ:\n- gut /ɡuːt/ (tốt)\n- Buch /buːx/ (sách)\n- Schule /ˈʃuːlə/ (trường)\n- Fuß /fuːs/ (chân)\n- Zug /tsuːk/ (tàu)\n3. Câu thực hành: Das gute Buch ist in der Schule, der Zug fährt mit Fuß gut.\n4. Lưu ý: Dấu hiệu uh, hoặc u + 1 phụ âm. Luôn dài."
+    },
+    {
+      "id": "pa_11",
+      "title": "Bài 11: Âm /ɛ/ - ä ngắn",
+      "status": "active",
+      "type": "pronunciation",
+      "video_url": null,
+      "transcript": "1. Hướng dẫn khẩu hình: Giống /ɛ/ ngắn, miệng mở vừa, là biến thể của a. Mẹo: nói 'e' nhưng nghĩ là 'a'.\n2. Từ vựng ví dụ:\n- Männer /ˈmɛnɐ/ (những người đàn ông)\n- Bäcker /ˈbɛkɐ/ (thợ làm bánh)\n- Hände /ˈhɛndə/ (tay)\n- älter /ˈɛltɐ/ (lớn tuổi hơn)\n3. Câu thực hành: Die Männer beim Bäcker haben ältere Hände.\n4. Lưu ý: ä ngắn thường ä + 2 phụ âm, là số nhiều của a."
+    },
+    {
+      "id": "pa_12",
+      "title": "Bài 12: Âm /ɛː/ - ä dài",
+      "status": "active",
+      "type": "pronunciation",
+      "video_url": null,
+      "transcript": "1. Hướng dẫn khẩu hình: Giống /eː/ dài nhưng miệng mở hơn một chút, âm dài.\n2. Từ vựng ví dụ:\n- Mädchen /ˈmɛːtçən/ (bé gái)\n- Käse /ˈkɛːzə/ (phô mai)\n- spät /ʃpɛːt/ (muộn)\n- wählen /ˈvɛːlən/ (chọn)\n- Universität /ˌunivɛʁziˈtɛːt/ (đại học)\n3. Câu thực hành: Das Mädchen isst Käse spät und wählt die Universität.\n4. Lưu ý: äh, ä + 1 phụ âm thì dài. Người miền Bắc Đức đọc /ɛː/ như /eː/."
+    },
+    {
+      "id": "pa_13",
+      "title": "Bài 13: Âm /œ/ - ö ngắn",
+      "status": "active",
+      "type": "pronunciation",
+      "video_url": null,
+      "transcript": "1. Hướng dẫn khẩu hình: MẸO QUAN TRỌNG: Môi tròn như nói 'o' nhưng lưỡi nói 'e'. Âm ngắn. Không có trong tiếng Anh/Việt!\n2. Từ vựng ví dụ:\n- können /ˈkœnən/ (có thể)\n- Hölle /ˈhœlə/ (địa ngục)\n- zwölf /tsvœlf/ (12)\n- öffnen /ˈœfnən/ (mở)\n- Löffel /ˈlœfl̩/ (thìa)\n3. Câu thực hành: Wir können die Hölle mit zwölf Löffeln öffnen.\n4. Lưu ý: ö ngắn = ö + 2 phụ âm. Luyện: chu môi o, phát âm e."
+    },
+    {
+      "id": "pa_14",
+      "title": "Bài 14: Âm /øː/ - ö dài",
+      "status": "active",
+      "type": "pronunciation",
+      "video_url": null,
+      "transcript": "1. Hướng dẫn khẩu hình: Môi tròn chặt như o dài, lưỡi nói e dài. Âm dài.\n2. Từ vựng ví dụ:\n- schön /ʃøːn/ (đẹp)\n- groß /ɡʁoːs/ nhưng ö: böse /ˈbøːzə/ (ác)\n- hören /ˈhøːʁən/ (nghe)\n- König /ˈkøːnɪç/ (vua)\n- Öl /øːl/ (dầu)\n3. Câu thực hành: Die schöne Königin hört böse Öl.\n4. Lưu ý: öh, ö + 1 phụ âm thì dài. Rất quan trọng trong tiếng Đức."
+    },
+    {
+      "id": "pa_15",
+      "title": "Bài 15: Âm /ʏ/ - ü ngắn",
+      "status": "active",
+      "type": "pronunciation",
+      "video_url": null,
+      "transcript": "1. Hướng dẫn khẩu hình: MẸO: Môi tròn như nói 'u' nhưng lưỡi nói 'i'. Âm ngắn. Không có trong tiếng Anh!\n2. Từ vựng ví dụ:\n- fünf /fʏnf/ (5)\n- müssen /ˈmʏsən/ (phải)\n- Küche /ˈkʏçə/ (bếp)\n- Stück /ʃtʏk/ (miếng)\n- Glück /ɡlʏk/ (may mắn)\n3. Câu thực hành: Fünf müssen in der Küche ein Stück Glück haben.\n4. Lưu ý: ü ngắn = ü + 2 phụ âm. Chu môi u, phát âm i ngắn."
+    },
+    {
+      "id": "pa_16",
+      "title": "Bài 16: Âm /yː/ - ü dài",
+      "status": "active",
+      "type": "pronunciation",
+      "video_url": null,
+      "transcript": "1. Hướng dẫn khẩu hình: Môi tròn chặt như u dài, lưỡi nói i dài. Âm dài.\n2. Từ vựng ví dụ:\n- Tür /tyːɐ/ (cửa)\n- für /fyːɐ/ (cho)\n- grün /ɡʁyːn/ (xanh lá)\n- über /ˈyːbɐ/ (trên)\n- Übung /ˈyːbʊŋ/ (bài tập)\n3. Câu thực hành: Die grüne Tür ist für die Übung über dem Haus.\n4. Lưu ý: üh, ü + 1 phụ âm, ü ở cuối từ thì dài. Cực kỳ quan trọng."
+    },
+    {
+      "id": "pa_17",
+      "title": "Bài 17: Âm /aɪ/ - ei, ai",
+      "status": "active",
+      "type": "pronunciation",
+      "video_url": null,
+      "transcript": "1. Hướng dẫn khẩu hình: Bắt đầu từ /a/ rồi trượt nhanh sang /ɪ/, giống 'ai' tiếng Việt.\n2. Từ vựng ví dụ:\n- mein /maɪn/ (của tôi)\n- nein /naɪn/ (không)\n- Zeit /tsaɪt/ (thời gian)\n- Mai /maɪ/ (tháng 5)\n- Arbeit /ˈaʁbaɪt/ (công việc)\n3. Câu thực hành: Meine Arbeit im Mai hat keine Zeit, nein!\n4. Lưu ý: ei và ai đều đọc /aɪ/ giống nhau."
+    },
+    {
+      "id": "pa_18",
+      "title": "Bài 18: Âm /aʊ/ - au",
+      "status": "active",
+      "type": "pronunciation",
+      "video_url": null,
+      "transcript": "1. Hướng dẫn khẩu hình: Bắt đầu từ /a/ rồi trượt sang /ʊ/, giống 'au' tiếng Việt.\n2. Từ vựng ví dụ:\n- Haus /haʊs/ (nhà)\n- Frau /fʁaʊ/ (phụ nữ)\n- auch /aʊx/ (cũng)\n- blau /blaʊ/ (xanh dương)\n- kaufen /ˈkaʊfən/ (mua)\n3. Câu thực hành: Die blaue Frau kauft auch ein Haus.\n4. Lưu ý: au luôn đọc /aʊ/."
+    },
+    {
+      "id": "pa_19",
+      "title": "Bài 19: Âm /ɔʏ/ - eu, äu",
+      "status": "active",
+      "type": "pronunciation",
+      "video_url": null,
+      "transcript": "1. Hướng dẫn khẩu hình: Bắt đầu từ /ɔ/ rồi trượt sang /ʏ/, giống 'oi' nhưng môi tròn hơn.\n2. Từ vựng ví dụ:\n- Deutsch /dɔʏtʃ/ (tiếng Đức)\n- heute /ˈhɔʏtə/ (hôm nay)\n- Leute /ˈlɔʏtə/ (mọi người)\n- Häuser /ˈhɔʏzɐ/ (những ngôi nhà)\n- träumen /ˈtʁɔʏmən/ (mơ)\n3. Câu thực hành: Heute sprechen die Leute Deutsch in den Häusern und träumen.\n4. Lưu ý: eu và äu đọc giống nhau /ɔʏ/. äu là số nhiều của au."
+    },
+    {
+      "id": "pa_20",
+      "title": "Bài 20: Âm /ç/ (ich-Laut) và /x/ (ach-Laut)",
+      "status": "active",
+      "type": "pronunciation",
+      "video_url": null,
+      "transcript": "1. Hướng dẫn khẩu hình: QUÁI VẬT TIẾNG ĐỨC!\n- ich-Laut /ç/: sau e,i,ä,ö,ü: lưỡi nâng gần vòm miệng, xì nhẹ như mèo khè: ich /ɪç/, Milch /mɪlç/\n- ach-Laut /x/: sau a,o,u: khạc nhẹ trong họng: ach /ax/, Buch /buːx/, machen /ˈmaxən/\n2. Từ vựng ví dụ:\n- ich /ɪç/ (tôi)\n- nicht /nɪçt/ (không)\n- Buch /buːx/ (sách)\n- Nacht /naxt/ (đêm)\n- Küche /ˈkʏçə/ (bếp - ich-Laut)\n3. Câu thực hành: Ich mache das Buch in der Nacht nicht in der Küche.\n4. Lưu ý: Sai ich/ach là Tây không hiểu ngay!"
+    },
+    {
+      "id": "pa_21",
+      "title": "Bài 21: Âm /ʁ/ - r rung họng",
+      "status": "active",
+      "type": "pronunciation",
+      "video_url": null,
+      "transcript": "1. Hướng dẫn khẩu hình: R tiếng Đức rung trong họng (uvular), không phải đầu lưỡi như tiếng Anh. Mẹo: súc miệng nhẹ, để lưỡi gà rung.\n2. Từ vựng ví dụ:\n- rot /ʁoːt/ (đỏ)\n- Rhein /ʁaɪn/ (sông Rhein)\n- Arbeit /ˈaʁbaɪt/ (công việc)\n- drei /dʁaɪ/ (3)\n- Frau /fʁaʊ/ (phụ nữ)\n3. Câu thực hành: Die rote Frau hat drei Arbeiten am Rhein.\n4. Lưu ý: R cuối từ thường đọc nhẹ thành /ɐ/: Vater /ˈfaːtɐ/. Đừng lăn r quá mạnh."
+    },
+    {
+      "id": "pa_22",
+      "title": "Bài 22: Âm /j/ - j (ya)",
+      "status": "active",
+      "type": "pronunciation",
+      "video_url": null,
+      "transcript": "1. Hướng dẫn khẩu hình: Đọc như 'y' trong 'ya' tiếng Việt, luôn là bán nguyên âm.\n2. Từ vựng ví dụ:\n- ja /jaː/ (có)\n- Jahr /jaːɐ/ (năm)\n- jung /jʊŋ/ (trẻ)\n- jetzt /jɛtst/ (bây giờ)\n- jemand /ˈjeːmant/ (ai đó)\n3. Câu thực hành: Ja, das junge Jahr hat jetzt jemand.\n4. Lưu ý: Đừng đọc j như tiếng Anh /dʒ/. Luôn là /j/."
+    },
+    {
+      "id": "pa_23",
+      "title": "Bài 23: Âm /ʃ/ - sch, sp, st",
+      "status": "active",
+      "type": "pronunciation",
+      "video_url": null,
+      "transcript": "1. Hướng dẫn khẩu hình: sch = /ʃ/ như 'sờ' nặng. sp, st đầu từ cũng đọc /ʃp/, /ʃt/.\n2. Từ vựng ví dụ:\n- Schule /ˈʃuːlə/ (trường)\n- schön /ʃøːn/ (đẹp)\n- sprechen /ˈʃpʁɛçən/ (nói) - sp = schp\n- Straße /ˈʃtʁaːsə/ (đường) - st = scht\n- Fisch /fɪʃ/ (cá)\n3. Câu thực hành: Die schöne Schule in der Straße spricht.\n4. Lưu ý: sp, st chỉ đọc /ʃp, ʃt/ khi ở đầu từ. Giữa từ vẫn /sp, st/: Wespe /ˈvɛspə/."
+    },
+    {
+      "id": "pa_24",
+      "title": "Bài 24: Âm /pf/, /kv/, /ks/ - pf, qu, chs",
+      "status": "active",
+      "type": "pronunciation",
+      "video_url": null,
+      "transcript": "1. Hướng dẫn khẩu hình: Phải bật cả 2 phụ âm, không được nuốt.\n- pf /pf/: môi bật p rồi f ngay: Pferd /pfeːɐt/ (ngựa), Apfel /ˈapfəl/ (táo)\n- qu /kv/: q luôn đọc /kv/: Quelle /ˈkvɛlə/ (nguồn)\n- chs /ks/: sechs /zɛks/ (6)\n2. Từ vựng ví dụ:\n- Pferd /pfeːɐt/\n- Kopf /kɔpf/ (đầu)\n- Quelle /ˈkvɛlə/\n- sechs /zɛks/\n- wachsen /ˈvaksən/ (lớn lên)\n3. Câu thực hành: Das Pferd mit Kopf aus der Quelle wächst sechs Mal.\n4. Lưu ý: Người Việt hay bỏ p trong pf, phải bật rõ!"
+    },
+    {
+      "id": "pa_25",
+      "title": "Bài 25: Âm /h/ - h đầu từ và h câm",
+      "status": "active",
+      "type": "pronunciation",
+      "video_url": null,
+      "transcript": "1. Hướng dẫn khẩu hình: h đầu từ /h/ thở mạnh: Haus /haʊs/. h sau nguyên âm dài thì câm, chỉ để báo hiệu dài: gehen /ˈɡeːən/, sehen /ˈzeːən/, früh /fʁyː/.\n2. Từ vựng ví dụ:\n- Haus /haʊs/ (nhà) - h đọc\n- Hund /hʊnt/ (chó) - h đọc\n- gehen /ˈɡeːən/ (đi) - h câm\n- sehen /ˈzeːən/ (nhìn) - h câm\n- Stuhl /ʃtuːl/ (ghế) - h câm báo dài\n3. Câu thực hành: Der Hund geht ins Haus und sieht den Stuhl.\n4. Lưu ý: h + nguyên âm + h = h thứ 2 câm và báo dài."
+    },
+    {
+      "id": "pa_26",
+      "title": "Bài 26: Âm /ŋ/ - ng, nk",
+      "status": "active",
+      "type": "pronunciation",
+      "video_url": null,
+      "transcript": "1. Hướng dẫn khẩu hình: ng /ŋ/ như 'ng' cuối từ tiếng Việt, không bật g. nk = /ŋk/.\n2. Từ vựng ví dụ:\n- lang /laŋ/ (dài)\n- singen /ˈzɪŋən/ (hát)\n- Übung /ˈyːbʊŋ/ (bài tập)\n- danke /ˈdaŋkə/ (cảm ơn) - nk = /ŋk/\n- trinken /ˈtʁɪŋkən/ (uống)\n3. Câu thực hành: Danke, ich singe lang eine Übung und trinke.\n4. Lưu ý: Đừng đọc /ŋg/ như tiếng Anh finger, chỉ /ŋ/ thôi: singen /ˈzɪŋən/ không phải /ˈzɪŋɡən/."
+    },
+    {
+      "id": "pa_27",
+      "title": "Bài 27: Glottal Stop và ngắt âm",
+      "status": "active",
+      "type": "pronunciation",
+      "video_url": null,
+      "transcript": "1. Hướng dẫn khẩu hình: Tiếng Đức ngắt âm mạnh giữa các nguyên âm, gọi là Knacklaut /ʔ/. Ví dụ: be|amter /bəˈʔamtɐ/, ge|impft /ɡəˈʔɪmpft/. Nghe như nấc nhẹ.\n2. Từ vựng ví dụ:\n- Beamter /bəˈʔamtɐ/ (công chức)\n- erinnern /ɛɐˈʔɪnɐn/ (nhớ)\n- Verein /fɛɐˈʔaɪn/ (câu lạc bộ)\n- Theater /teˈʔaːtɐ/ (nhà hát)\n3. Câu thực hành: Der Beamte im Theater erinnert sich an den Verein.\n4. Lưu ý: Không nối âm như tiếng Anh, phải ngắt rõ. Đây là dấu hiệu người Đức bản xứ."
+    },
+    {
+      "id": "pa_28",
+      "title": "Bài 28: Trọng âm từ (Wortakzent)",
+      "status": "active",
+      "type": "pronunciation",
+      "video_url": null,
+      "transcript": "1. Hướng dẫn khẩu hình: 90% từ Đức trọng âm rơi vào âm tiết đầu: ARbeit, DEUTSCHland, FAHRRad, MÖGlich. Khác tiếng Anh hay nhảy.\n2. Từ vựng ví dụ:\n- ARbeit /ˈaʁbaɪt/ (công việc)\n- DEUTSCHland /ˈdɔʏtʃlant/ (nước Đức)\n- FAHRRad /ˈfaːɐʁaːt/ (xe đạp)\n- MÖGlich /ˈmøːklɪç/ (có thể)\n- ANkunft /ˈankʊnft/ (đến)\n3. Câu thực hành: Die Ankunft der Arbeit in Deutschland mit Fahrrad ist möglich.\n4. Lưu ý: Tiền tố be-, ge-, er-, ver-, zer- không bao giờ có trọng âm: beZAHlen, geFALlen."
+    },
+    {
+      "id": "pa_29",
+      "title": "Bài 29: Từ ghép và trọng âm câu",
+      "status": "active",
+      "type": "pronunciation",
+      "video_url": null,
+      "transcript": "1. Hướng dẫn khẩu hình: Từ ghép Đức trọng âm chính ở từ đầu, trọng âm phụ ở từ sau: HAUPTbahnhof, DONAUdampfschifffahrt. Câu khẳng định giọng đi xuống, câu hỏi W- cũng xuống, chỉ câu hỏi Ja/Nein mới lên.\n2. Từ vựng ví dụ:\n- Hauptbahnhof /ˈhaʊptbaːnhoːf/ (ga chính)\n- Donaudampfschiff /ˈdoːnaʊdampfʃɪf/\n- Ich KOMME aus Vietnam. (giọng xuống)\n- Woher KOMMST du? (giọng xuống)\n- Kommst du aus Vietnam? (giọng lên)\n3. Câu thực hành: Ich komme aus Vietnam und wohne am Hauptbahnhof. Kommst du aus Vietnam?\n4. Lưu ý: Ngữ điệu Đức cứng và rõ ràng hơn tiếng Anh, không luyến láy."
+    },
+    {
+      "id": "pa_30",
+      "title": "Bài 30: Tổng ôn và lỗi người Việt hay mắc",
+      "status": "active",
+      "type": "pronunciation",
+      "video_url": null,
+      "transcript": "1. Hướng dẫn khẩu hình: Tổng kết 5 lỗi người Việt hay mắc:\n1) Không phân biệt dài-ngắn: Stadt /ʃtat/ vs Staat /ʃtaːt/, Bett /bɛt/ vs Beet /beːt/\n2) Đọc ö, ü thành o, u: schön /ʃøːn/ → schon /ʃoːn/ (đã), für /fyːɐ/ → fur (lông thú)\n3) Đọc ch sai: ich /ɪç/ → isch /ɪʃ/, ach /ax/ → ak /ak/\n4) Không rung r: rot /ʁoːt/ → lot /loːt/\n5) Đọc sp, st như tiếng Anh: sprechen /ˈʃpʁɛçən/ → spreschen\n2. Từ vựng ví dụ tổng hợp:\n- Ich spreche /ˈʃpʁɛçə/ schön /ʃøːn/ Deutsch /dɔʏtʃ/ für /fyːɐ/ fünf /fʏnf/ Tage /ˈtaːɡə/ in der Stadt /ʃtat/ Staat /ʃtaːt/.\n- Über /ˈyːbɐ/ die schöne /ˈʃøːnə/ Tür /tyːɐ/ mit Öl /øːl/ und grünem /ɡʁyːnəm/ Tee /teː/.\n- Der Beamte /bəˈʔamtɐ/ im Hauptbahnhof /ˈhaʊptbaːnhoːf/ kauft Pferde /ˈpfeːɐdə/ und Äpfel /ˈɛpfl̩/.\n3. Câu thực hành: Herzlichen Glückwunsch! /ˈhɛʁtslɪçən ˈɡlʏkvʊnʃ/ Du hast die deutsche Aussprache /ˈaʊsʃpʁaːxə/ gemeistert /ɡəˈmaɪstɐt/!\n4. Lưu ý: Luyện mỗi ngày 10 phút với video người bản xứ, ghi âm và so sánh. Tiếng Đức phát âm chuẩn là chìa khóa để được tôn trọng! Goethe-Zertifikat yêu cầu phát âm rõ ràng, trọng âm đúng, không nuốt âm."
+    }
+  ]
+}
