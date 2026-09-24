@@ -1,0 +1,29 @@
+{
+  "id": "nghe_hieu",
+  "title": "Nghe hiểu",
+  "lessons": [
+    {
+      "id": "nghe_hieu",
+      "title": "Nghe hiểu",
+      "lessons": [
+        {
+          "id": "nh_1",
+          "title": "Bài 1: Einführung ins Hören",
+          "status": "pending",
+          "type": "listening",
+          "video_url": null,
+          "transcript": "Hallo, ich bin Tuan aus Cam Xuyen in Ha Tinh, Vietnam. Jeden Morgen stehe ich um sechs Uhr auf und trinke heißen grünen Tee. Seit drei Monaten lerne ich jeden Tag fleißig Deutsch, weil mein großer Traum ist, in Deutschland zu studieren und später zu arbeiten. Am Morgen lerne ich neue Wörter und Grammatik, am Abend schaue ich deutsche Filme und höre deutsche Podcasts zum Hören. Deutsch ist nicht leicht, die Grammatik ist kompliziert, aber es macht mir sehr viel Spaß und ich gebe niemals auf."
+        },
+        {
+          "id": "nh_2",
+          "title": "Bài 2: Hörverstehen - Atemberaubende Aussicht",
+          "status": "completed",
+          "type": "listening",
+          "video_url": "https://wrhfugutmpfgfygjcjcv.supabase.co/storage/v1/object/public/Lesson_mp4/gemini_generated_video_610fbc5b.mp4",
+          "transcript": "Wow, diese Aussicht ist unglaublich."
+        }
+      ]
+    }
+  ],
+  "total": 2
+}
