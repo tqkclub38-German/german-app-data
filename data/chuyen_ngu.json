@@ -1,0 +1,2037 @@
+{
+  "id": "chuyen_ngu",
+  "title": "Chuyển Ngữ",
+  "lessons": [
+    {
+      "id": "cn_1",
+      "title": "Bài 1: Bạn đang làm gì vậy? - Was machst du gerade?",
+      "status": "completed",
+      "type": "translation",
+      "topic": "Cuộc sống",
+      "transcript": "Was machst du gerade?",
+      "transcript_vi": "Bạn đang làm gì vậy?",
+      "vi": "Bạn đang làm gì vậy?",
+      "en": "Was machst du gerade?",
+      "dialogues": [
+        {
+          "speaker": "A",
+          "name": "Tuan",
+          "en": "Was machst du gerade?",
+          "vi": "Bạn đang làm gì vậy?"
+        },
+        {
+          "speaker": "B",
+          "name": "Lisa",
+          "en": "Ich lese ein Buch und lerne Deutsch.",
+          "vi": "Mình đang đọc sách và học tiếng Đức."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "type": "vi_to_de",
+          "question": "Dịch sang tiếng Đức: \"Bạn đang làm gì vậy?\"",
+          "options": [
+            "Was machst du gerade?",
+            "Ich fahre mit dem Traktor aufs Feld.",
+            "Ich habe 2 Millionen überwiesen.",
+            "Der LKW liefert morgen die Ware."
+          ],
+          "correct": "Was machst du gerade?",
+          "vi": "Bạn đang làm gì vậy?"
+        },
+        {
+          "id": "q2",
+          "type": "de_to_vi",
+          "question": "Dịch sang tiếng Việt: \"Was machst du gerade?\"",
+          "options": [
+            "Bạn đang làm gì vậy?",
+            "Tháng này là mùa trồng lúa.",
+            "Quê tôi có sông Hồng rất đẹp.",
+            "Tuần này tôi phải tăng ca."
+          ],
+          "correct": "Bạn đang làm gì vậy?",
+          "en": "Was machst du gerade?"
+        },
+        {
+          "id": "q3",
+          "type": "choose",
+          "question": "Chọn bản dịch đúng cho: \"Was machst du gerade?...\"",
+          "options": [
+            "Bạn đang làm gì vậy?",
+            "Tháng này là mùa trồng lúa.",
+            "Quê tôi có sông Hồng rất đẹp.",
+            "Tuần này tôi phải tăng ca."
+          ],
+          "correct": "Bạn đang làm gì vậy?",
+          "en": "Was machst du gerade?"
+        }
+      ]
+    },
+    {
+      "id": "cn_2",
+      "title": "Bài 2: Tên bạn là gì? - Wie heißt du?",
+      "status": "completed",
+      "type": "translation",
+      "topic": "Giới thiệu",
+      "transcript": "Wie heißt du?",
+      "transcript_vi": "Tên bạn là gì?",
+      "vi": "Tên bạn là gì?",
+      "en": "Wie heißt du?",
+      "dialogues": [
+        {
+          "speaker": "A",
+          "name": "Tuan",
+          "en": "Wie heißt du?",
+          "vi": "Tên bạn là gì?"
+        },
+        {
+          "speaker": "B",
+          "name": "Lisa",
+          "en": "Ich heiße Lisa, freut mich!",
+          "vi": "Mình là Lisa, rất vui được gặp bạn!"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "type": "vi_to_de",
+          "question": "Dịch sang tiếng Đức: \"Tên bạn là gì?\"",
+          "options": [
+            "Wie heißt du?",
+            "Ich möchte ein Paket nach Hanoi schicken.",
+            "Wir kümmern uns um die Großeltern.",
+            "Ich habe seit zwei Tagen Fieber."
+          ],
+          "correct": "Wie heißt du?",
+          "vi": "Tên bạn là gì?"
+        },
+        {
+          "id": "q2",
+          "type": "de_to_vi",
+          "question": "Dịch sang tiếng Việt: \"Wie heißt du?\"",
+          "options": [
+            "Tên bạn là gì?",
+            "Tôi muốn mua quà lưu niệm.",
+            "Hôm nay trời mưa to ở miền Trung.",
+            "Ngày mai tôi thuyết trình."
+          ],
+          "correct": "Tên bạn là gì?",
+          "en": "Wie heißt du?"
+        },
+        {
+          "id": "q3",
+          "type": "choose",
+          "question": "Chọn bản dịch đúng cho: \"Wie heißt du?...\"",
+          "options": [
+            "Tên bạn là gì?",
+            "Tôi muốn mua quà lưu niệm.",
+            "Hôm nay trời mưa to ở miền Trung.",
+            "Ngày mai tôi thuyết trình."
+          ],
+          "correct": "Tên bạn là gì?",
+          "en": "Wie heißt du?"
+        }
+      ]
+    },
+    {
+      "id": "cn_3",
+      "title": "Bài 3: Hôm nay bạn thế nào? - Wie geht es dir heute?",
+      "status": "completed",
+      "type": "translation",
+      "topic": "Hỏi thăm",
+      "transcript": "Wie geht es dir heute?",
+      "transcript_vi": "Hôm nay bạn thế nào?",
+      "vi": "Hôm nay bạn thế nào?",
+      "en": "Wie geht es dir heute?",
+      "dialogues": [
+        {
+          "speaker": "A",
+          "name": "Tuan",
+          "en": "Wie geht es dir heute?",
+          "vi": "Hôm nay bạn thế nào?"
+        },
+        {
+          "speaker": "B",
+          "name": "Lisa",
+          "en": "Mir geht es super, danke! Und dir?",
+          "vi": "Mình khỏe, cảm ơn! Còn bạn?"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "type": "vi_to_de",
+          "question": "Dịch sang tiếng Đức: \"Hôm nay bạn thế nào?\"",
+          "options": [
+            "Wie geht es dir heute?",
+            "Heute regnet es stark.",
+            "Ich fahre morgens mit dem Traktor.",
+            "Ich recherchiere über Reisanbau."
+          ],
+          "correct": "Wie geht es dir heute?",
+          "vi": "Hôm nay bạn thế nào?"
+        },
+        {
+          "id": "q2",
+          "type": "de_to_vi",
+          "question": "Dịch sang tiếng Việt: \"Wie geht es dir heute?\"",
+          "options": [
+            "Hôm nay bạn thế nào?",
+            "Tôi muốn gửi bưu kiện.",
+            "Rất vui được gặp bạn.",
+            "Tôi mở cửa hàng tạp hóa."
+          ],
+          "correct": "Hôm nay bạn thế nào?",
+          "en": "Wie geht es dir heute?"
+        },
+        {
+          "id": "q3",
+          "type": "choose",
+          "question": "Chọn bản dịch đúng cho: \"Wie geht es dir heute?...\"",
+          "options": [
+            "Hôm nay bạn thế nào?",
+            "Tôi muốn gửi bưu kiện.",
+            "Rất vui được gặp bạn.",
+            "Tôi mở cửa hàng tạp hóa."
+          ],
+          "correct": "Hôm nay bạn thế nào?",
+          "en": "Wie geht es dir heute?"
+        }
+      ]
+    },
+    {
+      "id": "cn_4",
+      "title": "Bài 4: Rất vui được gặp bạn - Freut mich!",
+      "status": "completed",
+      "type": "translation",
+      "topic": "Giới thiệu",
+      "transcript": "Freut mich, dich kennenzulernen!",
+      "transcript_vi": "Rất vui được gặp bạn!",
+      "vi": "Rất vui được gặp bạn!",
+      "en": "Freut mich, dich kennenzulernen!",
+      "dialogues": [
+        {
+          "speaker": "A",
+          "name": "Tuan",
+          "en": "Hallo Lisa, freut mich, dich kennenzulernen!",
+          "vi": "Chào Lisa, rất vui được gặp bạn!"
+        },
+        {
+          "speaker": "B",
+          "name": "Lisa",
+          "en": "Freut mich auch! Woher kommst du?",
+          "vi": "Mình cũng rất vui! Bạn đến từ đâu?"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "type": "vi_to_de",
+          "question": "Dịch sang tiếng Đức: \"Rất vui được gặp bạn!\"",
+          "options": [
+            "Freut mich, dich kennenzulernen!",
+            "Wo wohnst du?",
+            "Wie alt bist du?",
+            "Was machst du beruflich?"
+          ],
+          "correct": "Freut mich, dich kennenzulernen!",
+          "vi": "Rất vui được gặp bạn!"
+        },
+        {
+          "id": "q2",
+          "type": "de_to_vi",
+          "question": "Dịch sang tiếng Việt: \"Freut mich, dich kennenzulernen!\"",
+          "options": [
+            "Rất vui được gặp bạn!",
+            "Bạn sống ở đâu?",
+            "Bạn bao nhiêu tuổi?",
+            "Bạn làm nghề gì?"
+          ],
+          "correct": "Rất vui được gặp bạn!",
+          "en": "Freut mich, dich kennenzulernen!"
+        },
+        {
+          "id": "q3",
+          "type": "choose",
+          "question": "Chọn bản dịch đúng cho: \"Freut mich, dich kennenzulernen!...\"",
+          "options": [
+            "Rất vui được gặp bạn!",
+            "Bạn sống ở đâu?",
+            "Bạn bao nhiêu tuổi?",
+            "Bạn làm nghề gì?"
+          ],
+          "correct": "Rất vui được gặp bạn!",
+          "en": "Freut mich, dich kennenzulernen!"
+        }
+      ]
+    },
+    {
+      "id": "cn_5",
+      "title": "Bài 5: Mua sắm ở chợ - Wie viel kostet das Gemüse?",
+      "status": "completed",
+      "type": "translation",
+      "topic": "Mua sắm",
+      "transcript": "Wie viel kostet dieses Gemüse?",
+      "transcript_vi": "Bó rau này bao nhiêu tiền?",
+      "vi": "Bó rau này bao nhiêu tiền?",
+      "en": "Wie viel kostet dieses Gemüse?",
+      "dialogues": [
+        {
+          "speaker": "A",
+          "name": "Tuan",
+          "en": "Wie viel kostet dieses Gemüse?",
+          "vi": "Bó rau này bao nhiêu tiền?"
+        },
+        {
+          "speaker": "B",
+          "name": "Lisa",
+          "en": "Das kostet 2 Euro pro Kilo.",
+          "vi": "Cái này 2 Euro một ký."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "type": "vi_to_de",
+          "question": "Dịch sang tiếng Đức: \"Bó rau này bao nhiêu tiền?\"",
+          "options": [
+            "Wie viel kostet dieses Gemüse?",
+            "Ich hätte gern Fisch und Reis.",
+            "Wie hoch ist die Miete?",
+            "Ich habe seit zwei Tagen Fieber."
+          ],
+          "correct": "Wie viel kostet dieses Gemüse?",
+          "vi": "Bó rau này bao nhiêu tiền?"
+        },
+        {
+          "id": "q2",
+          "type": "de_to_vi",
+          "question": "Dịch sang tiếng Việt: \"Wie viel kostet dieses Gemüse?\"",
+          "options": [
+            "Bó rau này bao nhiêu tiền?",
+            "Tôi muốn gọi cá nướng và cơm trắng.",
+            "Tiền thuê bao nhiêu một tháng?",
+            "Tôi bị sốt và ho hai ngày rồi."
+          ],
+          "correct": "Bó rau này bao nhiêu tiền?",
+          "en": "Wie viel kostet dieses Gemüse?"
+        },
+        {
+          "id": "q3",
+          "type": "choose",
+          "question": "Chọn bản dịch đúng cho: \"Wie viel kostet dieses Gemüse?...\"",
+          "options": [
+            "Bó rau này bao nhiêu tiền?",
+            "Tôi muốn gọi cá nướng và cơm trắng.",
+            "Tiền thuê bao nhiêu một tháng?",
+            "Tôi bị sốt và ho hai ngày rồi."
+          ],
+          "correct": "Bó rau này bao nhiêu tiền?",
+          "en": "Wie viel kostet dieses Gemüse?"
+        }
+      ]
+    },
+    {
+      "id": "cn_6",
+      "title": "Bài 6: Gọi món - Ich hätte gern Fisch",
+      "status": "completed",
+      "type": "translation",
+      "topic": "Ăn uống",
+      "transcript": "Ich hätte gern gegrillten Fisch und Reis.",
+      "transcript_vi": "Tôi muốn gọi cá nướng và cơm trắng.",
+      "vi": "Tôi muốn gọi cá nướng và cơm trắng.",
+      "en": "Ich hätte gern gegrillten Fisch und Reis.",
+      "dialogues": [
+        {
+          "speaker": "A",
+          "name": "Tuan",
+          "en": "Ich hätte gern gegrillten Fisch und Reis.",
+          "vi": "Tôi muốn gọi cá nướng và cơm trắng."
+        },
+        {
+          "speaker": "B",
+          "name": "Lisa",
+          "en": "Sehr gern! Möchten Sie noch etwas trinken?",
+          "vi": "Dạ vâng! Bạn muốn uống gì thêm không?"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "type": "vi_to_de",
+          "question": "Dịch sang tiếng Đức: \"Tôi muốn gọi cá nướng và cơm trắng.\"",
+          "options": [
+            "Ich hätte gern gegrillten Fisch und Reis.",
+            "Wie viel kostet das Gemüse?",
+            "Meine Wasserleitung leckt.",
+            "Ich habe Fieber und Husten."
+          ],
+          "correct": "Ich hätte gern gegrillten Fisch und Reis.",
+          "vi": "Tôi muốn gọi cá nướng và cơm trắng."
+        },
+        {
+          "id": "q2",
+          "type": "de_to_vi",
+          "question": "Dịch sang tiếng Việt: \"Ich hätte gern gegrillten Fisch und Reis.\"",
+          "options": [
+            "Tôi muốn gọi cá nướng và cơm trắng.",
+            "Bó rau này bao nhiêu tiền?",
+            "Ống nước nhà tôi bị rò rỉ.",
+            "Tôi bị sốt và ho."
+          ],
+          "correct": "Tôi muốn gọi cá nướng và cơm trắng.",
+          "en": "Ich hätte gern gegrillten Fisch und Reis."
+        },
+        {
+          "id": "q3",
+          "type": "choose",
+          "question": "Chọn bản dịch đúng cho: \"Ich hätte gern gegrillten Fisch und Reis....\"",
+          "options": [
+            "Tôi muốn gọi cá nướng và cơm trắng.",
+            "Bó rau này bao nhiêu tiền?",
+            "Ống nước nhà tôi bị rò rỉ.",
+            "Tôi bị sốt và ho."
+          ],
+          "correct": "Tôi muốn gọi cá nướng và cơm trắng.",
+          "en": "Ich hätte gern gegrillten Fisch und Reis."
+        }
+      ]
+    },
+    {
+      "id": "cn_7",
+      "title": "Bài 7: Thuê nhà - Wie hoch ist die Miete?",
+      "status": "completed",
+      "type": "translation",
+      "topic": "Nhà ở",
+      "transcript": "Wie hoch ist die Miete pro Monat, inklusive Strom und Wasser?",
+      "transcript_vi": "Tiền thuê bao nhiêu một tháng, có bao gồm điện nước không?",
+      "vi": "Tiền thuê bao nhiêu một tháng, có bao gồm điện nước không?",
+      "en": "Wie hoch ist die Miete pro Monat, inklusive Strom und Wasser?",
+      "dialogues": [
+        {
+          "speaker": "A",
+          "name": "Tuan",
+          "en": "Wie hoch ist die Miete pro Monat, inklusive Strom und Wasser?",
+          "vi": "Tiền thuê bao nhiêu một tháng, có bao gồm điện nước không?"
+        },
+        {
+          "speaker": "B",
+          "name": "Lisa",
+          "en": "Die Miete beträgt 400 Euro warm, inklusive Nebenkosten.",
+          "vi": "Tiền thuê 400 Euro ấm, đã bao gồm chi phí phụ."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "type": "vi_to_de",
+          "question": "Dịch sang tiếng Đức: \"Tiền thuê bao nhiêu một tháng, có bao gồm điện nước không?\"",
+          "options": [
+            "Wie hoch ist die Miete pro Monat, inklusive Strom und Wasser?",
+            "Wie viel kostet das Gemüse?",
+            "Ich möchte Fisch bestellen.",
+            "Ich habe Fieber."
+          ],
+          "correct": "Wie hoch ist die Miete pro Monat, inklusive Strom und Wasser?",
+          "vi": "Tiền thuê bao nhiêu một tháng, có bao gồm điện nước không?"
+        },
+        {
+          "id": "q2",
+          "type": "de_to_vi",
+          "question": "Dịch sang tiếng Việt: \"Wie hoch ist die Miete pro Monat, inklusive Strom und Wasser?\"",
+          "options": [
+            "Tiền thuê bao nhiêu một tháng, có bao gồm điện nước không?",
+            "Bó rau này bao nhiêu?",
+            "Tôi muốn gọi cá.",
+            "Tôi bị sốt."
+          ],
+          "correct": "Tiền thuê bao nhiêu một tháng, có bao gồm điện nước không?",
+          "en": "Wie hoch ist die Miete pro Monat, inklusive Strom und Wasser?"
+        },
+        {
+          "id": "q3",
+          "type": "choose",
+          "question": "Chọn bản dịch đúng cho: \"Wie hoch ist die Miete pro Monat, inklusive S...\"",
+          "options": [
+            "Tiền thuê bao nhiêu một tháng, có bao gồm điện nước không?",
+            "Bó rau này bao nhiêu?",
+            "Tôi muốn gọi cá.",
+            "Tôi bị sốt."
+          ],
+          "correct": "Tiền thuê bao nhiêu một tháng, có bao gồm điện nước không?",
+          "en": "Wie hoch ist die Miete pro Monat, inklusive Strom und Wasser?"
+        }
+      ]
+    },
+    {
+      "id": "cn_8",
+      "title": "Bài 8: Khám bệnh - Ich habe Fieber",
+      "status": "completed",
+      "type": "translation",
+      "topic": "Sức khỏe",
+      "transcript": "Ich habe seit zwei Tagen Fieber und Husten.",
+      "transcript_vi": "Tôi bị sốt và ho hai ngày rồi.",
+      "vi": "Tôi bị sốt và ho hai ngày rồi.",
+      "en": "Ich habe seit zwei Tagen Fieber und Husten.",
+      "dialogues": [
+        {
+          "speaker": "A",
+          "name": "Tuan",
+          "en": "Ich habe seit zwei Tagen Fieber und Husten.",
+          "vi": "Tôi bị sốt và ho hai ngày rồi."
+        },
+        {
+          "speaker": "B",
+          "name": "Lisa",
+          "en": "Haben Sie auch Halsschmerzen? Bitte zum Hausarzt.",
+          "vi": "Bạn có đau họng không? Vui lòng đến bác sĩ gia đình."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "type": "vi_to_de",
+          "question": "Dịch sang tiếng Đức: \"Tôi bị sốt và ho hai ngày rồi.\"",
+          "options": [
+            "Ich habe seit zwei Tagen Fieber und Husten.",
+            "Wie viel kostet das Gemüse?",
+            "Wie hoch ist die Miete?",
+            "Ich möchte ein Paket schicken."
+          ],
+          "correct": "Ich habe seit zwei Tagen Fieber und Husten.",
+          "vi": "Tôi bị sốt và ho hai ngày rồi."
+        },
+        {
+          "id": "q2",
+          "type": "de_to_vi",
+          "question": "Dịch sang tiếng Việt: \"Ich habe seit zwei Tagen Fieber und Husten.\"",
+          "options": [
+            "Tôi bị sốt và ho hai ngày rồi.",
+            "Bó rau này bao nhiêu?",
+            "Tiền thuê bao nhiêu?",
+            "Tôi muốn gửi bưu kiện."
+          ],
+          "correct": "Tôi bị sốt và ho hai ngày rồi.",
+          "en": "Ich habe seit zwei Tagen Fieber und Husten."
+        },
+        {
+          "id": "q3",
+          "type": "choose",
+          "question": "Chọn bản dịch đúng cho: \"Ich habe seit zwei Tagen Fieber und Husten....\"",
+          "options": [
+            "Tôi bị sốt và ho hai ngày rồi.",
+            "Bó rau này bao nhiêu?",
+            "Tiền thuê bao nhiêu?",
+            "Tôi muốn gửi bưu kiện."
+          ],
+          "correct": "Tôi bị sốt và ho hai ngày rồi.",
+          "en": "Ich habe seit zwei Tagen Fieber und Husten."
+        }
+      ]
+    },
+    {
+      "id": "cn_9",
+      "title": "Bài 9: Gửi bưu kiện - Ich möchte ein Paket schicken",
+      "status": "completed",
+      "type": "translation",
+      "topic": "Bưu điện",
+      "transcript": "Ich möchte dieses Paket nach Hanoi schicken, wie viel kostet das?",
+      "transcript_vi": "Tôi muốn gửi bưu kiện này ra Hà Nội, bao nhiêu tiền?",
+      "vi": "Tôi muốn gửi bưu kiện này ra Hà Nội, bao nhiêu tiền?",
+      "en": "Ich möchte dieses Paket nach Hanoi schicken, wie viel kostet das?",
+      "dialogues": [
+        {
+          "speaker": "A",
+          "name": "Tuan",
+          "en": "Ich möchte dieses Paket nach Hanoi schicken, wie viel kostet das?",
+          "vi": "Tôi muốn gửi bưu kiện này ra Hà Nội, bao nhiêu tiền?"
+        },
+        {
+          "speaker": "B",
+          "name": "Lisa",
+          "en": "Das kostet 10 Euro, es kommt in 3 Tagen an.",
+          "vi": "Cái này 10 Euro, 3 ngày sẽ đến."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "type": "vi_to_de",
+          "question": "Dịch sang tiếng Đức: \"Tôi muốn gửi bưu kiện này ra Hà Nội, bao nhiêu tiền?\"",
+          "options": [
+            "Ich möchte dieses Paket nach Hanoi schicken, wie viel kostet das?",
+            "Wie viel kostet das Gemüse?",
+            "Ich habe Fieber.",
+            "Meine Wasserleitung leckt."
+          ],
+          "correct": "Ich möchte dieses Paket nach Hanoi schicken, wie viel kostet das?",
+          "vi": "Tôi muốn gửi bưu kiện này ra Hà Nội, bao nhiêu tiền?"
+        },
+        {
+          "id": "q2",
+          "type": "de_to_vi",
+          "question": "Dịch sang tiếng Việt: \"Ich möchte dieses Paket nach Hanoi schicken, wie viel kostet das?\"",
+          "options": [
+            "Tôi muốn gửi bưu kiện này ra Hà Nội, bao nhiêu tiền?",
+            "Bó rau này bao nhiêu?",
+            "Tôi bị sốt.",
+            "Ống nước bị rò."
+          ],
+          "correct": "Tôi muốn gửi bưu kiện này ra Hà Nội, bao nhiêu tiền?",
+          "en": "Ich möchte dieses Paket nach Hanoi schicken, wie viel kostet das?"
+        },
+        {
+          "id": "q3",
+          "type": "choose",
+          "question": "Chọn bản dịch đúng cho: \"Ich möchte dieses Paket nach Hanoi schicken, ...\"",
+          "options": [
+            "Tôi muốn gửi bưu kiện này ra Hà Nội, bao nhiêu tiền?",
+            "Bó rau này bao nhiêu?",
+            "Tôi bị sốt.",
+            "Ống nước bị rò."
+          ],
+          "correct": "Tôi muốn gửi bưu kiện này ra Hà Nội, bao nhiêu tiền?",
+          "en": "Ich möchte dieses Paket nach Hanoi schicken, wie viel kostet das?"
+        }
+      ]
+    },
+    {
+      "id": "cn_10",
+      "title": "Bài 10: Sửa ống nước - Meine Wasserleitung leckt",
+      "status": "completed",
+      "type": "translation",
+      "topic": "Sửa chữa",
+      "transcript": "Meine Wasserleitung leckt, können Sie kommen und sie reparieren?",
+      "transcript_vi": "Ống nước nhà tôi bị rò rỉ, bạn có thể đến sửa không?",
+      "vi": "Ống nước nhà tôi bị rò rỉ, bạn có thể đến sửa không?",
+      "en": "Meine Wasserleitung leckt, können Sie kommen und sie reparieren?",
+      "dialogues": [
+        {
+          "speaker": "A",
+          "name": "Tuan",
+          "en": "Meine Wasserleitung leckt, können Sie kommen und sie reparieren?",
+          "vi": "Ống nước nhà tôi bị rò rỉ, bạn có thể đến sửa không?"
+        },
+        {
+          "speaker": "B",
+          "name": "Lisa",
+          "en": "Ja, ich komme heute Nachmittag um 3 Uhr.",
+          "vi": "Vâng, tôi sẽ đến chiều nay lúc 3 giờ."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "type": "vi_to_de",
+          "question": "Dịch sang tiếng Đức: \"Ống nước nhà tôi bị rò rỉ, bạn có thể đến sửa không?\"",
+          "options": [
+            "Meine Wasserleitung leckt, können Sie kommen und sie reparieren?",
+            "Wie viel kostet das Gemüse?",
+            "Ich möchte Fisch bestellen.",
+            "Wie hoch ist die Miete?"
+          ],
+          "correct": "Meine Wasserleitung leckt, können Sie kommen und sie reparieren?",
+          "vi": "Ống nước nhà tôi bị rò rỉ, bạn có thể đến sửa không?"
+        },
+        {
+          "id": "q2",
+          "type": "de_to_vi",
+          "question": "Dịch sang tiếng Việt: \"Meine Wasserleitung leckt, können Sie kommen und sie reparieren?\"",
+          "options": [
+            "Ống nước nhà tôi bị rò rỉ, bạn có thể đến sửa không?",
+            "Bó rau này bao nhiêu?",
+            "Tôi muốn gọi cá.",
+            "Tiền thuê bao nhiêu?"
+          ],
+          "correct": "Ống nước nhà tôi bị rò rỉ, bạn có thể đến sửa không?",
+          "en": "Meine Wasserleitung leckt, können Sie kommen und sie reparieren?"
+        },
+        {
+          "id": "q3",
+          "type": "choose",
+          "question": "Chọn bản dịch đúng cho: \"Meine Wasserleitung leckt, können Sie kommen ...\"",
+          "options": [
+            "Ống nước nhà tôi bị rò rỉ, bạn có thể đến sửa không?",
+            "Bó rau này bao nhiêu?",
+            "Tôi muốn gọi cá.",
+            "Tiền thuê bao nhiêu?"
+          ],
+          "correct": "Ống nước nhà tôi bị rò rỉ, bạn có thể đến sửa không?",
+          "en": "Meine Wasserleitung leckt, können Sie kommen und sie reparieren?"
+        }
+      ]
+    },
+    {
+      "id": "cn_11",
+      "title": "Bài 11: Phỏng vấn xin việc - Vorstellungsgespräch",
+      "status": "completed",
+      "type": "translation",
+      "topic": "Công việc",
+      "transcript": "Morgen habe ich ein Vorstellungsgespräch für eine Stelle als Entwickler.",
+      "transcript_vi": "Ngày mai tôi có buổi phỏng vấn cho vị trí lập trình viên.",
+      "vi": "Ngày mai tôi có buổi phỏng vấn cho vị trí lập trình viên.",
+      "en": "Morgen habe ich ein Vorstellungsgespräch für eine Stelle als Entwickler.",
+      "dialogues": [
+        {
+          "speaker": "A",
+          "name": "Tuan",
+          "en": "Morgen habe ich ein Vorstellungsgespräch für eine Stelle als Entwickler.",
+          "vi": "Ngày mai tôi có buổi phỏng vấn cho vị trí lập trình viên."
+        },
+        {
+          "speaker": "B",
+          "name": "Lisa",
+          "en": "Viel Erfolg! Bereite deine Unterlagen gut vor.",
+          "vi": "Chúc may mắn! Chuẩn bị hồ sơ thật tốt nhé."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "type": "vi_to_de",
+          "question": "Dịch sang tiếng Đức: \"Ngày mai tôi có buổi phỏng vấn cho vị trí lập trình viên.\"",
+          "options": [
+            "Morgen habe ich ein Vorstellungsgespräch für eine Stelle als Entwickler.",
+            "Ich habe den Tagesbericht fertiggestellt.",
+            "Wir müssen als Team arbeiten.",
+            "Bitte tragen Sie einen Schutzhelm."
+          ],
+          "correct": "Morgen habe ich ein Vorstellungsgespräch für eine Stelle als Entwickler.",
+          "vi": "Ngày mai tôi có buổi phỏng vấn cho vị trí lập trình viên."
+        },
+        {
+          "id": "q2",
+          "type": "de_to_vi",
+          "question": "Dịch sang tiếng Việt: \"Morgen habe ich ein Vorstellungsgespräch für eine Stelle als Entwickler.\"",
+          "options": [
+            "Ngày mai tôi có buổi phỏng vấn cho vị trí lập trình viên.",
+            "Tôi đã hoàn thành báo cáo ngày và gửi cho sếp.",
+            "Chúng ta cần làm việc nhóm để xong dự án.",
+            "Vui lòng đội mũ bảo hiểm khi vào xưởng."
+          ],
+          "correct": "Ngày mai tôi có buổi phỏng vấn cho vị trí lập trình viên.",
+          "en": "Morgen habe ich ein Vorstellungsgespräch für eine Stelle als Entwickler."
+        },
+        {
+          "id": "q3",
+          "type": "choose",
+          "question": "Chọn bản dịch đúng cho: \"Morgen habe ich ein Vorstellungsgespräch für ...\"",
+          "options": [
+            "Ngày mai tôi có buổi phỏng vấn cho vị trí lập trình viên.",
+            "Tôi đã hoàn thành báo cáo ngày và gửi cho sếp.",
+            "Chúng ta cần làm việc nhóm để xong dự án.",
+            "Vui lòng đội mũ bảo hiểm khi vào xưởng."
+          ],
+          "correct": "Ngày mai tôi có buổi phỏng vấn cho vị trí lập trình viên.",
+          "en": "Morgen habe ich ein Vorstellungsgespräch für eine Stelle als Entwickler."
+        }
+      ]
+    },
+    {
+      "id": "cn_12",
+      "title": "Bài 12: Báo cáo công việc - Tagesbericht",
+      "status": "completed",
+      "type": "translation",
+      "topic": "Công việc",
+      "transcript": "Ich habe den Tagesbericht fertiggestellt und an meinen Chef geschickt.",
+      "transcript_vi": "Tôi đã hoàn thành báo cáo ngày và gửi cho sếp.",
+      "vi": "Tôi đã hoàn thành báo cáo ngày và gửi cho sếp.",
+      "en": "Ich habe den Tagesbericht fertiggestellt und an meinen Chef geschickt.",
+      "dialogues": [
+        {
+          "speaker": "A",
+          "name": "Tuan",
+          "en": "Ich habe den Tagesbericht fertiggestellt und an meinen Chef geschickt.",
+          "vi": "Tôi đã hoàn thành báo cáo ngày và gửi cho sếp."
+        },
+        {
+          "speaker": "B",
+          "name": "Lisa",
+          "en": "Super, sehr pünktlich und sorgfältig!",
+          "vi": "Tuyệt, rất đúng giờ và cẩn thận!"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "type": "vi_to_de",
+          "question": "Dịch sang tiếng Đức: \"Tôi đã hoàn thành báo cáo ngày và gửi cho sếp.\"",
+          "options": [
+            "Ich habe den Tagesbericht fertiggestellt und an meinen Chef geschickt.",
+            "Morgen habe ich ein Vorstellungsgespräch.",
+            "Wir müssen als Team zusammenarbeiten.",
+            "Diese Woche muss ich Überstunden machen."
+          ],
+          "correct": "Ich habe den Tagesbericht fertiggestellt und an meinen Chef geschickt.",
+          "vi": "Tôi đã hoàn thành báo cáo ngày và gửi cho sếp."
+        },
+        {
+          "id": "q2",
+          "type": "de_to_vi",
+          "question": "Dịch sang tiếng Việt: \"Ich habe den Tagesbericht fertiggestellt und an meinen Chef geschickt.\"",
+          "options": [
+            "Tôi đã hoàn thành báo cáo ngày và gửi cho sếp.",
+            "Ngày mai tôi có phỏng vấn.",
+            "Chúng ta cần làm việc nhóm.",
+            "Tuần này tôi phải tăng ca và xin nghỉ thứ Bảy."
+          ],
+          "correct": "Tôi đã hoàn thành báo cáo ngày và gửi cho sếp.",
+          "en": "Ich habe den Tagesbericht fertiggestellt und an meinen Chef geschickt."
+        },
+        {
+          "id": "q3",
+          "type": "choose",
+          "question": "Chọn bản dịch đúng cho: \"Ich habe den Tagesbericht fertiggestellt und ...\"",
+          "options": [
+            "Tôi đã hoàn thành báo cáo ngày và gửi cho sếp.",
+            "Ngày mai tôi có phỏng vấn.",
+            "Chúng ta cần làm việc nhóm.",
+            "Tuần này tôi phải tăng ca và xin nghỉ thứ Bảy."
+          ],
+          "correct": "Tôi đã hoàn thành báo cáo ngày và gửi cho sếp.",
+          "en": "Ich habe den Tagesbericht fertiggestellt und an meinen Chef geschickt."
+        }
+      ]
+    },
+    {
+      "id": "cn_13",
+      "title": "Bài 13: Làm việc nhóm - Teamarbeit",
+      "status": "completed",
+      "type": "translation",
+      "topic": "Công việc",
+      "transcript": "Wir müssen als Team zusammenarbeiten, um dieses Projekt abzuschließen.",
+      "transcript_vi": "Chúng ta cần làm việc nhóm để hoàn thành dự án này.",
+      "vi": "Chúng ta cần làm việc nhóm để hoàn thành dự án này.",
+      "en": "Wir müssen als Team zusammenarbeiten, um dieses Projekt abzuschließen.",
+      "dialogues": [
+        {
+          "speaker": "A",
+          "name": "Tuan",
+          "en": "Wir müssen als Team zusammenarbeiten, um dieses Projekt abzuschließen.",
+          "vi": "Chúng ta cần làm việc nhóm để hoàn thành dự án này."
+        },
+        {
+          "speaker": "B",
+          "name": "Lisa",
+          "en": "Ja, Teamarbeit ist sehr wichtig für den Erfolg.",
+          "vi": "Đúng vậy, làm việc nhóm rất quan trọng cho thành công."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "type": "vi_to_de",
+          "question": "Dịch sang tiếng Đức: \"Chúng ta cần làm việc nhóm để hoàn thành dự án này.\"",
+          "options": [
+            "Wir müssen als Team zusammenarbeiten, um dieses Projekt abzuschließen.",
+            "Ich habe den Tagesbericht geschickt.",
+            "Bitte tragen Sie einen Schutzhelm.",
+            "Meine Familie züchtet Hühner und Schweine."
+          ],
+          "correct": "Wir müssen als Team zusammenarbeiten, um dieses Projekt abzuschließen.",
+          "vi": "Chúng ta cần làm việc nhóm để hoàn thành dự án này."
+        },
+        {
+          "id": "q2",
+          "type": "de_to_vi",
+          "question": "Dịch sang tiếng Việt: \"Wir müssen als Team zusammenarbeiten, um dieses Projekt abzuschließen.\"",
+          "options": [
+            "Chúng ta cần làm việc nhóm để hoàn thành dự án này.",
+            "Tôi đã gửi báo cáo ngày.",
+            "Vui lòng đội mũ bảo hiểm.",
+            "Gia đình tôi nuôi gà, vịt và lợn."
+          ],
+          "correct": "Chúng ta cần làm việc nhóm để hoàn thành dự án này.",
+          "en": "Wir müssen als Team zusammenarbeiten, um dieses Projekt abzuschließen."
+        },
+        {
+          "id": "q3",
+          "type": "choose",
+          "question": "Chọn bản dịch đúng cho: \"Wir müssen als Team zusammenarbeiten, um dies...\"",
+          "options": [
+            "Chúng ta cần làm việc nhóm để hoàn thành dự án này.",
+            "Tôi đã gửi báo cáo ngày.",
+            "Vui lòng đội mũ bảo hiểm.",
+            "Gia đình tôi nuôi gà, vịt và lợn."
+          ],
+          "correct": "Chúng ta cần làm việc nhóm để hoàn thành dự án này.",
+          "en": "Wir müssen als Team zusammenarbeiten, um dieses Projekt abzuschließen."
+        }
+      ]
+    },
+    {
+      "id": "cn_14",
+      "title": "Bài 14: An toàn lao động - Arbeitssicherheit",
+      "status": "completed",
+      "type": "translation",
+      "topic": "Công việc",
+      "transcript": "Bitte tragen Sie einen Schutzhelm und Handschuhe, wenn Sie die Werkstatt betreten.",
+      "transcript_vi": "Vui lòng đội mũ bảo hiểm và đeo găng tay khi vào xưởng.",
+      "vi": "Vui lòng đội mũ bảo hiểm và đeo găng tay khi vào xưởng.",
+      "en": "Bitte tragen Sie einen Schutzhelm und Handschuhe, wenn Sie die Werkstatt betreten.",
+      "dialogues": [
+        {
+          "speaker": "A",
+          "name": "Tuan",
+          "en": "Bitte tragen Sie einen Schutzhelm und Handschuhe, wenn Sie die Werkstatt betreten.",
+          "vi": "Vui lòng đội mũ bảo hiểm và đeo găng tay khi vào xưởng."
+        },
+        {
+          "speaker": "B",
+          "name": "Lisa",
+          "en": "Verstanden, Sicherheit geht vor!",
+          "vi": "Đã hiểu, an toàn là trên hết!"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "type": "vi_to_de",
+          "question": "Dịch sang tiếng Đức: \"Vui lòng đội mũ bảo hiểm và đeo găng tay khi vào xưởng.\"",
+          "options": [
+            "Bitte tragen Sie einen Schutzhelm und Handschuhe, wenn Sie die Werkstatt betreten.",
+            "Wir müssen als Team arbeiten.",
+            "Diese Woche muss ich Überstunden machen.",
+            "Wir ernten im November."
+          ],
+          "correct": "Bitte tragen Sie einen Schutzhelm und Handschuhe, wenn Sie die Werkstatt betreten.",
+          "vi": "Vui lòng đội mũ bảo hiểm và đeo găng tay khi vào xưởng."
+        },
+        {
+          "id": "q2",
+          "type": "de_to_vi",
+          "question": "Dịch sang tiếng Việt: \"Bitte tragen Sie einen Schutzhelm und Handschuhe, wenn Sie die Werkstatt betreten.\"",
+          "options": [
+            "Vui lòng đội mũ bảo hiểm và đeo găng tay khi vào xưởng.",
+            "Chúng ta cần làm việc nhóm.",
+            "Tuần này tôi phải tăng ca.",
+            "Chúng tôi thu hoạch vào tháng 11."
+          ],
+          "correct": "Vui lòng đội mũ bảo hiểm và đeo găng tay khi vào xưởng.",
+          "en": "Bitte tragen Sie einen Schutzhelm und Handschuhe, wenn Sie die Werkstatt betreten."
+        },
+        {
+          "id": "q3",
+          "type": "choose",
+          "question": "Chọn bản dịch đúng cho: \"Bitte tragen Sie einen Schutzhelm und Handsch...\"",
+          "options": [
+            "Vui lòng đội mũ bảo hiểm và đeo găng tay khi vào xưởng.",
+            "Chúng ta cần làm việc nhóm.",
+            "Tuần này tôi phải tăng ca.",
+            "Chúng tôi thu hoạch vào tháng 11."
+          ],
+          "correct": "Vui lòng đội mũ bảo hiểm và đeo găng tay khi vào xưởng.",
+          "en": "Bitte tragen Sie einen Schutzhelm und Handschuhe, wenn Sie die Werkstatt betreten."
+        }
+      ]
+    },
+    {
+      "id": "cn_15",
+      "title": "Bài 15: Tăng ca và nghỉ phép - Überstunden und Urlaub",
+      "status": "completed",
+      "type": "translation",
+      "topic": "Công việc",
+      "transcript": "Diese Woche muss ich Überstunden machen und für Samstag Urlaub beantragen.",
+      "transcript_vi": "Tuần này tôi phải tăng ca và xin nghỉ phép vào thứ Bảy.",
+      "vi": "Tuần này tôi phải tăng ca và xin nghỉ phép vào thứ Bảy.",
+      "en": "Diese Woche muss ich Überstunden machen und für Samstag Urlaub beantragen.",
+      "dialogues": [
+        {
+          "speaker": "A",
+          "name": "Tuan",
+          "en": "Diese Woche muss ich Überstunden machen und für Samstag Urlaub beantragen.",
+          "vi": "Tuần này tôi phải tăng ca và xin nghỉ phép vào thứ Bảy."
+        },
+        {
+          "speaker": "B",
+          "name": "Lisa",
+          "en": "Hast du mit dem Teamleiter gesprochen?",
+          "vi": "Bạn đã nói với trưởng nhóm chưa?"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "type": "vi_to_de",
+          "question": "Dịch sang tiếng Đức: \"Tuần này tôi phải tăng ca và xin nghỉ phép vào thứ Bảy.\"",
+          "options": [
+            "Diese Woche muss ich Überstunden machen und für Samstag Urlaub beantragen.",
+            "Morgen habe ich ein Vorstellungsgespräch.",
+            "Ich habe den Tagesbericht fertiggestellt.",
+            "Wir müssen als Team arbeiten."
+          ],
+          "correct": "Diese Woche muss ich Überstunden machen und für Samstag Urlaub beantragen.",
+          "vi": "Tuần này tôi phải tăng ca và xin nghỉ phép vào thứ Bảy."
+        },
+        {
+          "id": "q2",
+          "type": "de_to_vi",
+          "question": "Dịch sang tiếng Việt: \"Diese Woche muss ich Überstunden machen und für Samstag Urlaub beantragen.\"",
+          "options": [
+            "Tuần này tôi phải tăng ca và xin nghỉ phép vào thứ Bảy.",
+            "Ngày mai tôi có phỏng vấn.",
+            "Tôi đã hoàn thành báo cáo ngày.",
+            "Chúng ta cần làm việc nhóm."
+          ],
+          "correct": "Tuần này tôi phải tăng ca và xin nghỉ phép vào thứ Bảy.",
+          "en": "Diese Woche muss ich Überstunden machen und für Samstag Urlaub beantragen."
+        },
+        {
+          "id": "q3",
+          "type": "choose",
+          "question": "Chọn bản dịch đúng cho: \"Diese Woche muss ich Überstunden machen und f...\"",
+          "options": [
+            "Tuần này tôi phải tăng ca và xin nghỉ phép vào thứ Bảy.",
+            "Ngày mai tôi có phỏng vấn.",
+            "Tôi đã hoàn thành báo cáo ngày.",
+            "Chúng ta cần làm việc nhóm."
+          ],
+          "correct": "Tuần này tôi phải tăng ca và xin nghỉ phép vào thứ Bảy.",
+          "en": "Diese Woche muss ich Überstunden machen und für Samstag Urlaub beantragen."
+        }
+      ]
+    },
+    {
+      "id": "cn_16",
+      "title": "Bài 16: Chăn nuôi gia đình - Meine Familie züchtet Tiere",
+      "status": "completed",
+      "type": "translation",
+      "topic": "Nông nghiệp",
+      "transcript": "Meine Familie züchtet Hühner, Enten und einige Schweine.",
+      "transcript_vi": "Gia đình tôi nuôi gà, vịt và một số lợn.",
+      "vi": "Gia đình tôi nuôi gà, vịt và một số lợn.",
+      "en": "Meine Familie züchtet Hühner, Enten und einige Schweine.",
+      "dialogues": [
+        {
+          "speaker": "A",
+          "name": "Tuan",
+          "en": "Meine Familie züchtet Hühner, Enten und einige Schweine.",
+          "vi": "Gia đình tôi nuôi gà, vịt và một số lợn."
+        },
+        {
+          "speaker": "B",
+          "name": "Lisa",
+          "en": "Das ist viel Arbeit auf dem Land!",
+          "vi": "Đó là nhiều việc ở quê nhỉ!"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "type": "vi_to_de",
+          "question": "Dịch sang tiếng Đức: \"Gia đình tôi nuôi gà, vịt và một số lợn.\"",
+          "options": [
+            "Meine Familie züchtet Hühner, Enten und einige Schweine.",
+            "Diesen Monat ist Pflanzzeit, die Felder sind sehr beschäftigt.",
+            "Ich gieße morgens Obstbäume.",
+            "Die Reisproduktion ist dieses Jahr sehr hoch."
+          ],
+          "correct": "Meine Familie züchtet Hühner, Enten und einige Schweine.",
+          "vi": "Gia đình tôi nuôi gà, vịt và một số lợn."
+        },
+        {
+          "id": "q2",
+          "type": "de_to_vi",
+          "question": "Dịch sang tiếng Việt: \"Meine Familie züchtet Hühner, Enten und einige Schweine.\"",
+          "options": [
+            "Gia đình tôi nuôi gà, vịt và một số lợn.",
+            "Tháng này là mùa trồng lúa, ruộng rất bận.",
+            "Tôi tưới cây ăn quả và bón phân mỗi sáng.",
+            "Sản lượng lúa năm nay rất cao nhờ thời tiết tốt."
+          ],
+          "correct": "Gia đình tôi nuôi gà, vịt và một số lợn.",
+          "en": "Meine Familie züchtet Hühner, Enten und einige Schweine."
+        },
+        {
+          "id": "q3",
+          "type": "choose",
+          "question": "Chọn bản dịch đúng cho: \"Meine Familie züchtet Hühner, Enten und einig...\"",
+          "options": [
+            "Gia đình tôi nuôi gà, vịt và một số lợn.",
+            "Tháng này là mùa trồng lúa, ruộng rất bận.",
+            "Tôi tưới cây ăn quả và bón phân mỗi sáng.",
+            "Sản lượng lúa năm nay rất cao nhờ thời tiết tốt."
+          ],
+          "correct": "Gia đình tôi nuôi gà, vịt và một số lợn.",
+          "en": "Meine Familie züchtet Hühner, Enten und einige Schweine."
+        }
+      ]
+    },
+    {
+      "id": "cn_17",
+      "title": "Bài 17: Mùa trồng lúa - Pflanzzeit",
+      "status": "completed",
+      "type": "translation",
+      "topic": "Nông nghiệp",
+      "transcript": "Diesen Monat ist Pflanzzeit für Reis, die Felder sind sehr beschäftigt.",
+      "transcript_vi": "Tháng này là mùa trồng lúa, ruộng rất bận rộn.",
+      "vi": "Tháng này là mùa trồng lúa, ruộng rất bận rộn.",
+      "en": "Diesen Monat ist Pflanzzeit für Reis, die Felder sind sehr beschäftigt.",
+      "dialogues": [
+        {
+          "speaker": "A",
+          "name": "Tuan",
+          "en": "Diesen Monat ist Pflanzzeit für Reis, die Felder sind sehr beschäftigt.",
+          "vi": "Tháng này là mùa trồng lúa, ruộng rất bận rộn."
+        },
+        {
+          "speaker": "B",
+          "name": "Lisa",
+          "en": "Alle Bauern arbeiten von früh bis spät auf dem Feld.",
+          "vi": "Tất cả nông dân làm việc từ sáng sớm đến tối trên đồng."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "type": "vi_to_de",
+          "question": "Dịch sang tiếng Đức: \"Tháng này là mùa trồng lúa, ruộng rất bận rộn.\"",
+          "options": [
+            "Diesen Monat ist Pflanzzeit für Reis, die Felder sind sehr beschäftigt.",
+            "Meine Familie züchtet Hühner.",
+            "Ich gieße Obstbäume und dünge.",
+            "Wir ernten im November."
+          ],
+          "correct": "Diesen Monat ist Pflanzzeit für Reis, die Felder sind sehr beschäftigt.",
+          "vi": "Tháng này là mùa trồng lúa, ruộng rất bận rộn."
+        },
+        {
+          "id": "q2",
+          "type": "de_to_vi",
+          "question": "Dịch sang tiếng Việt: \"Diesen Monat ist Pflanzzeit für Reis, die Felder sind sehr beschäftigt.\"",
+          "options": [
+            "Tháng này là mùa trồng lúa, ruộng rất bận rộn.",
+            "Gia đình tôi nuôi gà.",
+            "Tôi tưới cây và bón phân.",
+            "Chúng tôi thu hoạch vào tháng 11."
+          ],
+          "correct": "Tháng này là mùa trồng lúa, ruộng rất bận rộn.",
+          "en": "Diesen Monat ist Pflanzzeit für Reis, die Felder sind sehr beschäftigt."
+        },
+        {
+          "id": "q3",
+          "type": "choose",
+          "question": "Chọn bản dịch đúng cho: \"Diesen Monat ist Pflanzzeit für Reis, die Fel...\"",
+          "options": [
+            "Tháng này là mùa trồng lúa, ruộng rất bận rộn.",
+            "Gia đình tôi nuôi gà.",
+            "Tôi tưới cây và bón phân.",
+            "Chúng tôi thu hoạch vào tháng 11."
+          ],
+          "correct": "Tháng này là mùa trồng lúa, ruộng rất bận rộn.",
+          "en": "Diesen Monat ist Pflanzzeit für Reis, die Felder sind sehr beschäftigt."
+        }
+      ]
+    },
+    {
+      "id": "cn_18",
+      "title": "Bài 18: Tưới cây - Ich gieße Obstbäume",
+      "status": "completed",
+      "type": "translation",
+      "topic": "Nông nghiệp",
+      "transcript": "Ich gieße jeden Morgen Obstbäume und dünge sie.",
+      "transcript_vi": "Tôi tưới cây ăn quả và bón phân mỗi sáng.",
+      "vi": "Tôi tưới cây ăn quả và bón phân mỗi sáng.",
+      "en": "Ich gieße jeden Morgen Obstbäume und dünge sie.",
+      "dialogues": [
+        {
+          "speaker": "A",
+          "name": "Tuan",
+          "en": "Ich gieße jeden Morgen Obstbäume und dünge sie.",
+          "vi": "Tôi tưới cây ăn quả và bón phân mỗi sáng."
+        },
+        {
+          "speaker": "B",
+          "name": "Lisa",
+          "en": "Das ist sehr fleißig, um 6 Uhr morgens!",
+          "vi": "Thật chăm chỉ, lúc 6 giờ sáng!"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "type": "vi_to_de",
+          "question": "Dịch sang tiếng Đức: \"Tôi tưới cây ăn quả và bón phân mỗi sáng.\"",
+          "options": [
+            "Ich gieße jeden Morgen Obstbäume und dünge sie.",
+            "Die Reisproduktion ist sehr hoch.",
+            "Wir ernten im November und lagern.",
+            "Meine Familie züchtet Tiere."
+          ],
+          "correct": "Ich gieße jeden Morgen Obstbäume und dünge sie.",
+          "vi": "Tôi tưới cây ăn quả và bón phân mỗi sáng."
+        },
+        {
+          "id": "q2",
+          "type": "de_to_vi",
+          "question": "Dịch sang tiếng Việt: \"Ich gieße jeden Morgen Obstbäume und dünge sie.\"",
+          "options": [
+            "Tôi tưới cây ăn quả và bón phân mỗi sáng.",
+            "Sản lượng lúa năm nay rất cao.",
+            "Chúng tôi thu hoạch vào tháng 11 và cất kho khô.",
+            "Gia đình tôi nuôi gà vịt."
+          ],
+          "correct": "Tôi tưới cây ăn quả và bón phân mỗi sáng.",
+          "en": "Ich gieße jeden Morgen Obstbäume und dünge sie."
+        },
+        {
+          "id": "q3",
+          "type": "choose",
+          "question": "Chọn bản dịch đúng cho: \"Ich gieße jeden Morgen Obstbäume und dünge si...\"",
+          "options": [
+            "Tôi tưới cây ăn quả và bón phân mỗi sáng.",
+            "Sản lượng lúa năm nay rất cao.",
+            "Chúng tôi thu hoạch vào tháng 11 và cất kho khô.",
+            "Gia đình tôi nuôi gà vịt."
+          ],
+          "correct": "Tôi tưới cây ăn quả và bón phân mỗi sáng.",
+          "en": "Ich gieße jeden Morgen Obstbäume und dünge sie."
+        }
+      ]
+    },
+    {
+      "id": "cn_19",
+      "title": "Bài 19: Sản lượng lúa - Reisproduktion",
+      "status": "completed",
+      "type": "translation",
+      "topic": "Nông nghiệp",
+      "transcript": "Die Reisproduktion ist dieses Jahr dank des guten Wetters sehr hoch.",
+      "transcript_vi": "Sản lượng lúa năm nay rất cao nhờ thời tiết tốt.",
+      "vi": "Sản lượng lúa năm nay rất cao nhờ thời tiết tốt.",
+      "en": "Die Reisproduktion ist dieses Jahr dank des guten Wetters sehr hoch.",
+      "dialogues": [
+        {
+          "speaker": "A",
+          "name": "Tuan",
+          "en": "Die Reisproduktion ist dieses Jahr dank des guten Wetters sehr hoch.",
+          "vi": "Sản lượng lúa năm nay rất cao nhờ thời tiết tốt."
+        },
+        {
+          "speaker": "B",
+          "name": "Lisa",
+          "en": "Herzlichen Glückwunsch zu einer guten Ernte!",
+          "vi": "Chúc mừng vụ mùa bội thu!"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "type": "vi_to_de",
+          "question": "Dịch sang tiếng Đức: \"Sản lượng lúa năm nay rất cao nhờ thời tiết tốt.\"",
+          "options": [
+            "Die Reisproduktion ist dieses Jahr dank des guten Wetters sehr hoch.",
+            "Ich gieße Obstbäume jeden Morgen.",
+            "Wir ernten im November.",
+            "Morgen habe ich ein Vorstellungsgespräch."
+          ],
+          "correct": "Die Reisproduktion ist dieses Jahr dank des guten Wetters sehr hoch.",
+          "vi": "Sản lượng lúa năm nay rất cao nhờ thời tiết tốt."
+        },
+        {
+          "id": "q2",
+          "type": "de_to_vi",
+          "question": "Dịch sang tiếng Việt: \"Die Reisproduktion ist dieses Jahr dank des guten Wetters sehr hoch.\"",
+          "options": [
+            "Sản lượng lúa năm nay rất cao nhờ thời tiết tốt.",
+            "Tôi tưới cây mỗi sáng.",
+            "Chúng tôi thu hoạch vào tháng 11.",
+            "Ngày mai tôi có phỏng vấn."
+          ],
+          "correct": "Sản lượng lúa năm nay rất cao nhờ thời tiết tốt.",
+          "en": "Die Reisproduktion ist dieses Jahr dank des guten Wetters sehr hoch."
+        },
+        {
+          "id": "q3",
+          "type": "choose",
+          "question": "Chọn bản dịch đúng cho: \"Die Reisproduktion ist dieses Jahr dank des g...\"",
+          "options": [
+            "Sản lượng lúa năm nay rất cao nhờ thời tiết tốt.",
+            "Tôi tưới cây mỗi sáng.",
+            "Chúng tôi thu hoạch vào tháng 11.",
+            "Ngày mai tôi có phỏng vấn."
+          ],
+          "correct": "Sản lượng lúa năm nay rất cao nhờ thời tiết tốt.",
+          "en": "Die Reisproduktion ist dieses Jahr dank des guten Wetters sehr hoch."
+        }
+      ]
+    },
+    {
+      "id": "cn_20",
+      "title": "Bài 20: Thu hoạch - Wir ernten im November",
+      "status": "completed",
+      "type": "translation",
+      "topic": "Nông nghiệp",
+      "transcript": "Wir ernten im November und lagern den Reis in einem trockenen Lager.",
+      "transcript_vi": "Chúng tôi thu hoạch vào tháng 11 và cất trữ trong kho khô.",
+      "vi": "Chúng tôi thu hoạch vào tháng 11 và cất trữ trong kho khô.",
+      "en": "Wir ernten im November und lagern den Reis in einem trockenen Lager.",
+      "dialogues": [
+        {
+          "speaker": "A",
+          "name": "Tuan",
+          "en": "Wir ernten im November und lagern den Reis in einem trockenen Lager.",
+          "vi": "Chúng tôi thu hoạch vào tháng 11 và cất trữ trong kho khô."
+        },
+        {
+          "speaker": "B",
+          "name": "Lisa",
+          "en": "Ein trockenes Lager ist sehr wichtig für Reis.",
+          "vi": "Kho khô rất quan trọng cho lúa gạo."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "type": "vi_to_de",
+          "question": "Dịch sang tiếng Đức: \"Chúng tôi thu hoạch vào tháng 11 và cất trữ trong kho khô.\"",
+          "options": [
+            "Wir ernten im November und lagern den Reis in einem trockenen Lager.",
+            "Die Reisproduktion ist sehr hoch.",
+            "Meine Familie züchtet Hühner.",
+            "Diesen Monat ist Pflanzzeit."
+          ],
+          "correct": "Wir ernten im November und lagern den Reis in einem trockenen Lager.",
+          "vi": "Chúng tôi thu hoạch vào tháng 11 và cất trữ trong kho khô."
+        },
+        {
+          "id": "q2",
+          "type": "de_to_vi",
+          "question": "Dịch sang tiếng Việt: \"Wir ernten im November und lagern den Reis in einem trockenen Lager.\"",
+          "options": [
+            "Chúng tôi thu hoạch vào tháng 11 và cất trữ trong kho khô.",
+            "Sản lượng lúa năm nay rất cao.",
+            "Gia đình tôi nuôi gà.",
+            "Tháng này là mùa trồng lúa."
+          ],
+          "correct": "Chúng tôi thu hoạch vào tháng 11 và cất trữ trong kho khô.",
+          "en": "Wir ernten im November und lagern den Reis in einem trockenen Lager."
+        },
+        {
+          "id": "q3",
+          "type": "choose",
+          "question": "Chọn bản dịch đúng cho: \"Wir ernten im November und lagern den Reis in...\"",
+          "options": [
+            "Chúng tôi thu hoạch vào tháng 11 và cất trữ trong kho khô.",
+            "Sản lượng lúa năm nay rất cao.",
+            "Gia đình tôi nuôi gà.",
+            "Tháng này là mùa trồng lúa."
+          ],
+          "correct": "Chúng tôi thu hoạch vào tháng 11 và cất trữ trong kho khô.",
+          "en": "Wir ernten im November und lagern den Reis in einem trockenen Lager."
+        }
+      ]
+    },
+    {
+      "id": "cn_21",
+      "title": "Bài 21: Lái máy cày - Ich fahre Traktor",
+      "status": "completed",
+      "type": "translation",
+      "topic": "Nông nghiệp",
+      "transcript": "Ich fahre seit dem frühen Morgen mit dem Traktor auf dem Feld.",
+      "transcript_vi": "Tôi lái máy cày trên đồng từ sáng sớm.",
+      "transcript_de": "Ich fahre seit dem frühen Morgen mit dem Traktor auf dem Feld.",
+      "vi": "Tôi lái máy cày trên đồng từ sáng sớm.",
+      "en": "Ich fahre seit dem frühen Morgen mit dem Traktor auf dem Feld.",
+      "de": "Ich fahre seit dem frühen Morgen mit dem Traktor auf dem Feld.",
+      "dialogues": [
+        {
+          "speaker": "A",
+          "name": "Tuan",
+          "en": "Ich fahre seit dem frühen Morgen mit dem Traktor auf dem Feld.",
+          "vi": "Tôi lái máy cày trên đồng từ sáng sớm.",
+          "de": "Ich fahre seit dem frühen Morgen mit dem Traktor auf dem Feld."
+        },
+        {
+          "speaker": "B",
+          "name": "Lisa",
+          "en": "Das ist harte Arbeit, fährst du jeden Tag?",
+          "vi": "Đó là việc nặng nhọc, bạn lái mỗi ngày à?",
+          "de": "Das ist harte Arbeit, fährst du jeden Tag?"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "type": "vi_to_de",
+          "question": "Dịch sang tiếng Đức: \"Tôi lái máy cày trên đồng từ sáng sớm.\"",
+          "options": [
+            "Ich fahre seit dem frühen Morgen mit dem Traktor auf dem Feld.",
+            "Wir verkaufen frische Produkte auf dem Markt.",
+            "Ich habe gerade einen kleinen Laden eröffnet.",
+            "Dieser Preis ist etwas hoch."
+          ],
+          "correct": "Ich fahre seit dem frühen Morgen mit dem Traktor auf dem Feld.",
+          "vi": "Tôi lái máy cày trên đồng từ sáng sớm.",
+          "de": "Ich fahre seit dem frühen Morgen mit dem Traktor auf dem Feld."
+        },
+        {
+          "id": "q2",
+          "type": "de_to_vi",
+          "question": "Dịch sang tiếng Việt: \"Ich fahre seit dem frühen Morgen mit dem Traktor auf dem Feld.\"",
+          "options": [
+            "Tôi lái máy cày trên đồng từ sáng sớm.",
+            "Chúng tôi bán nông sản tươi ở chợ huyện mỗi sáng.",
+            "Tôi vừa mở cửa hàng tạp hóa nhỏ gần trường.",
+            "Giá này hơi cao."
+          ],
+          "correct": "Tôi lái máy cày trên đồng từ sáng sớm.",
+          "de": "Ich fahre seit dem frühen Morgen mit dem Traktor auf dem Feld."
+        },
+        {
+          "id": "q3",
+          "type": "choose",
+          "question": "Chọn bản dịch đúng cho: \"Ich fahre seit dem frühen Morgen mit dem Trak...\"",
+          "options": [
+            "Tôi lái máy cày trên đồng từ sáng sớm.",
+            "Chúng tôi bán nông sản tươi ở chợ huyện mỗi sáng.",
+            "Tôi vừa mở cửa hàng tạp hóa nhỏ gần trường.",
+            "Giá này hơi cao."
+          ],
+          "correct": "Tôi lái máy cày trên đồng từ sáng sớm.",
+          "de": "Ich fahre seit dem frühen Morgen mit dem Traktor auf dem Feld."
+        }
+      ]
+    },
+    {
+      "id": "cn_22",
+      "title": "Bài 22: Bán nông sản - Wir verkaufen frische Produkte",
+      "status": "completed",
+      "type": "translation",
+      "topic": "Nông nghiệp",
+      "transcript": "Wir verkaufen jeden Morgen frische Produkte vom Bauernhof auf dem Bezirksmarkt.",
+      "transcript_vi": "Chúng tôi bán nông sản tươi ở chợ huyện mỗi sáng.",
+      "transcript_de": "Wir verkaufen jeden Morgen frische Produkte vom Bauernhof auf dem Bezirksmarkt.",
+      "vi": "Chúng tôi bán nông sản tươi ở chợ huyện mỗi sáng.",
+      "en": "Wir verkaufen jeden Morgen frische Produkte vom Bauernhof auf dem Bezirksmarkt.",
+      "de": "Wir verkaufen jeden Morgen frische Produkte vom Bauernhof auf dem Bezirksmarkt.",
+      "dialogues": [
+        {
+          "speaker": "A",
+          "name": "Tuan",
+          "en": "Wir verkaufen jeden Morgen frische Produkte vom Bauernhof auf dem Bezirksmarkt.",
+          "vi": "Chúng tôi bán nông sản tươi ở chợ huyện mỗi sáng.",
+          "de": "Wir verkaufen jeden Morgen frische Produkte vom Bauernhof auf dem Bezirksmarkt."
+        },
+        {
+          "speaker": "B",
+          "name": "Lisa",
+          "en": "Sind die Produkte aus eigenem Anbau?",
+          "vi": "Sản phẩm tự trồng à?",
+          "de": "Sind die Produkte aus eigenem Anbau?"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "type": "vi_to_de",
+          "question": "Dịch sang tiếng Đức: \"Chúng tôi bán nông sản tươi ở chợ huyện mỗi sáng.\"",
+          "options": [
+            "Wir verkaufen jeden Morgen frische Produkte vom Bauernhof auf dem Bezirksmarkt.",
+            "Ich fahre mit dem Traktor.",
+            "Ich habe einen kleinen Laden eröffnet.",
+            "Der LKW liefert morgen Nachmittag die Ware."
+          ],
+          "correct": "Wir verkaufen jeden Morgen frische Produkte vom Bauernhof auf dem Bezirksmarkt.",
+          "vi": "Chúng tôi bán nông sản tươi ở chợ huyện mỗi sáng.",
+          "de": "Wir verkaufen jeden Morgen frische Produkte vom Bauernhof auf dem Bezirksmarkt."
+        },
+        {
+          "id": "q2",
+          "type": "de_to_vi",
+          "question": "Dịch sang tiếng Việt: \"Wir verkaufen jeden Morgen frische Produkte vom Bauernhof auf dem Bezirksmarkt.\"",
+          "options": [
+            "Chúng tôi bán nông sản tươi ở chợ huyện mỗi sáng.",
+            "Tôi lái máy cày.",
+            "Tôi vừa mở cửa hàng tạp hóa.",
+            "Xe tải sẽ giao hàng chiều mai."
+          ],
+          "correct": "Chúng tôi bán nông sản tươi ở chợ huyện mỗi sáng.",
+          "de": "Wir verkaufen jeden Morgen frische Produkte vom Bauernhof auf dem Bezirksmarkt."
+        },
+        {
+          "id": "q3",
+          "type": "choose",
+          "question": "Chọn bản dịch đúng cho: \"Wir verkaufen jeden Morgen frische Produkte v...\"",
+          "options": [
+            "Chúng tôi bán nông sản tươi ở chợ huyện mỗi sáng.",
+            "Tôi lái máy cày.",
+            "Tôi vừa mở cửa hàng tạp hóa.",
+            "Xe tải sẽ giao hàng chiều mai."
+          ],
+          "correct": "Chúng tôi bán nông sản tươi ở chợ huyện mỗi sáng.",
+          "de": "Wir verkaufen jeden Morgen frische Produkte vom Bauernhof auf dem Bezirksmarkt."
+        }
+      ]
+    },
+    {
+      "id": "cn_23",
+      "title": "Bài 23: Mở cửa hàng tạp hóa - Ich habe einen Laden eröffnet",
+      "status": "completed",
+      "type": "translation",
+      "topic": "Kinh doanh",
+      "transcript": "Ich habe gerade einen kleinen Lebensmittelladen in der Nähe der Schule eröffnet.",
+      "transcript_vi": "Tôi vừa mở cửa hàng tạp hóa nhỏ gần trường học.",
+      "transcript_de": "Ich habe gerade einen kleinen Lebensmittelladen in der Nähe der Schule eröffnet.",
+      "vi": "Tôi vừa mở cửa hàng tạp hóa nhỏ gần trường học.",
+      "en": "Ich habe gerade einen kleinen Lebensmittelladen in der Nähe der Schule eröffnet.",
+      "de": "Ich habe gerade einen kleinen Lebensmittelladen in der Nähe der Schule eröffnet.",
+      "dialogues": [
+        {
+          "speaker": "A",
+          "name": "Tuan",
+          "en": "Ich habe gerade einen kleinen Lebensmittelladen in der Nähe der Schule eröffnet.",
+          "vi": "Tôi vừa mở cửa hàng tạp hóa nhỏ gần trường học.",
+          "de": "Ich habe gerade einen kleinen Lebensmittelladen in der Nähe der Schule eröffnet."
+        },
+        {
+          "speaker": "B",
+          "name": "Lisa",
+          "en": "Herzlichen Glückwunsch! Läuft das Geschäft gut?",
+          "vi": "Chúc mừng! Việc kinh doanh tốt không?",
+          "de": "Herzlichen Glückwunsch! Läuft das Geschäft gut?"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "type": "vi_to_de",
+          "question": "Dịch sang tiếng Đức: \"Tôi vừa mở cửa hàng tạp hóa nhỏ gần trường học.\"",
+          "options": [
+            "Ich habe gerade einen kleinen Lebensmittelladen in der Nähe der Schule eröffnet.",
+            "Dieser Preis ist etwas hoch.",
+            "Der LKW liefert die Ware.",
+            "Danke für die Nutzung unseres Services."
+          ],
+          "correct": "Ich habe gerade einen kleinen Lebensmittelladen in der Nähe der Schule eröffnet.",
+          "vi": "Tôi vừa mở cửa hàng tạp hóa nhỏ gần trường học.",
+          "de": "Ich habe gerade einen kleinen Lebensmittelladen in der Nähe der Schule eröffnet."
+        },
+        {
+          "id": "q2",
+          "type": "de_to_vi",
+          "question": "Dịch sang tiếng Việt: \"Ich habe gerade einen kleinen Lebensmittelladen in der Nähe der Schule eröffnet.\"",
+          "options": [
+            "Tôi vừa mở cửa hàng tạp hóa nhỏ gần trường học.",
+            "Giá này hơi cao.",
+            "Xe tải sẽ giao hàng.",
+            "Cảm ơn bạn đã sử dụng dịch vụ của chúng tôi."
+          ],
+          "correct": "Tôi vừa mở cửa hàng tạp hóa nhỏ gần trường học.",
+          "de": "Ich habe gerade einen kleinen Lebensmittelladen in der Nähe der Schule eröffnet."
+        },
+        {
+          "id": "q3",
+          "type": "choose",
+          "question": "Chọn bản dịch đúng cho: \"Ich habe gerade einen kleinen Lebensmittellad...\"",
+          "options": [
+            "Tôi vừa mở cửa hàng tạp hóa nhỏ gần trường học.",
+            "Giá này hơi cao.",
+            "Xe tải sẽ giao hàng.",
+            "Cảm ơn bạn đã sử dụng dịch vụ của chúng tôi."
+          ],
+          "correct": "Tôi vừa mở cửa hàng tạp hóa nhỏ gần trường học.",
+          "de": "Ich habe gerade einen kleinen Lebensmittelladen in der Nähe der Schule eröffnet."
+        }
+      ]
+    },
+    {
+      "id": "cn_24",
+      "title": "Bài 24: Mặc cả giá - Dieser Preis ist etwas hoch",
+      "status": "completed",
+      "type": "translation",
+      "topic": "Mua sắm",
+      "transcript": "Dieser Preis ist etwas hoch, können Sie ihn etwas senken?",
+      "transcript_vi": "Giá này hơi cao, bạn có thể giảm chút được không?",
+      "transcript_de": "Dieser Preis ist etwas hoch, können Sie ihn etwas senken?",
+      "vi": "Giá này hơi cao, bạn có thể giảm chút được không?",
+      "en": "Dieser Preis ist etwas hoch, können Sie ihn etwas senken?",
+      "de": "Dieser Preis ist etwas hoch, können Sie ihn etwas senken?",
+      "dialogues": [
+        {
+          "speaker": "A",
+          "name": "Tuan",
+          "en": "Dieser Preis ist etwas hoch, können Sie ihn etwas senken?",
+          "vi": "Giá này hơi cao, bạn có thể giảm chút được không?",
+          "de": "Dieser Preis ist etwas hoch, können Sie ihn etwas senken?"
+        },
+        {
+          "speaker": "B",
+          "name": "Lisa",
+          "en": "Ich kann Ihnen 10 Prozent Rabatt geben.",
+          "vi": "Tôi có thể giảm cho bạn 10 phần trăm.",
+          "de": "Ich kann Ihnen 10 Prozent Rabatt geben."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "type": "vi_to_de",
+          "question": "Dịch sang tiếng Đức: \"Giá này hơi cao, bạn có thể giảm chút được không?\"",
+          "options": [
+            "Dieser Preis ist etwas hoch, können Sie ihn etwas senken?",
+            "Der LKW liefert morgen die Ware.",
+            "Danke für die Nutzung unseres Services.",
+            "Ich habe 2 Millionen überwiesen."
+          ],
+          "correct": "Dieser Preis ist etwas hoch, können Sie ihn etwas senken?",
+          "vi": "Giá này hơi cao, bạn có thể giảm chút được không?",
+          "de": "Dieser Preis ist etwas hoch, können Sie ihn etwas senken?"
+        },
+        {
+          "id": "q2",
+          "type": "de_to_vi",
+          "question": "Dịch sang tiếng Việt: \"Dieser Preis ist etwas hoch, können Sie ihn etwas senken?\"",
+          "options": [
+            "Giá này hơi cao, bạn có thể giảm chút được không?",
+            "Xe tải sẽ giao hàng chiều mai.",
+            "Cảm ơn bạn đã sử dụng dịch vụ.",
+            "Tôi đã chuyển khoản 2 triệu rồi."
+          ],
+          "correct": "Giá này hơi cao, bạn có thể giảm chút được không?",
+          "de": "Dieser Preis ist etwas hoch, können Sie ihn etwas senken?"
+        },
+        {
+          "id": "q3",
+          "type": "choose",
+          "question": "Chọn bản dịch đúng cho: \"Dieser Preis ist etwas hoch, können Sie ihn e...\"",
+          "options": [
+            "Giá này hơi cao, bạn có thể giảm chút được không?",
+            "Xe tải sẽ giao hàng chiều mai.",
+            "Cảm ơn bạn đã sử dụng dịch vụ.",
+            "Tôi đã chuyển khoản 2 triệu rồi."
+          ],
+          "correct": "Giá này hơi cao, bạn có thể giảm chút được không?",
+          "de": "Dieser Preis ist etwas hoch, können Sie ihn etwas senken?"
+        }
+      ]
+    },
+    {
+      "id": "cn_25",
+      "title": "Bài 25: Giao hàng - Der LKW liefert die Ware",
+      "status": "completed",
+      "type": "translation",
+      "topic": "Vận chuyển",
+      "transcript": "Der LKW wird morgen Nachmittag die Ware liefern.",
+      "transcript_vi": "Xe tải sẽ giao hàng vào chiều mai.",
+      "transcript_de": "Der LKW wird morgen Nachmittag die Ware liefern.",
+      "vi": "Xe tải sẽ giao hàng vào chiều mai.",
+      "en": "Der LKW wird morgen Nachmittag die Ware liefern.",
+      "de": "Der LKW wird morgen Nachmittag die Ware liefern.",
+      "dialogues": [
+        {
+          "speaker": "A",
+          "name": "Tuan",
+          "en": "Der LKW wird morgen Nachmittag die Ware liefern.",
+          "vi": "Xe tải sẽ giao hàng vào chiều mai.",
+          "de": "Der LKW wird morgen Nachmittag die Ware liefern."
+        },
+        {
+          "speaker": "B",
+          "name": "Lisa",
+          "en": "Um wie viel Uhr kommt er ungefähr an?",
+          "vi": "Khoảng mấy giờ xe đến?",
+          "de": "Um wie viel Uhr kommt er ungefähr an?"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "type": "vi_to_de",
+          "question": "Dịch sang tiếng Đức: \"Xe tải sẽ giao hàng vào chiều mai.\"",
+          "options": [
+            "Der LKW wird morgen Nachmittag die Ware liefern.",
+            "Dieser Preis ist etwas hoch.",
+            "Danke für die Nutzung unseres Services.",
+            "Ich habe 2 Millionen überwiesen."
+          ],
+          "correct": "Der LKW wird morgen Nachmittag die Ware liefern.",
+          "vi": "Xe tải sẽ giao hàng vào chiều mai.",
+          "de": "Der LKW wird morgen Nachmittag die Ware liefern."
+        },
+        {
+          "id": "q2",
+          "type": "de_to_vi",
+          "question": "Dịch sang tiếng Việt: \"Der LKW wird morgen Nachmittag die Ware liefern.\"",
+          "options": [
+            "Xe tải sẽ giao hàng vào chiều mai.",
+            "Giá này hơi cao.",
+            "Cảm ơn bạn đã sử dụng dịch vụ.",
+            "Tôi đã chuyển khoản 2 triệu rồi."
+          ],
+          "correct": "Xe tải sẽ giao hàng vào chiều mai.",
+          "de": "Der LKW wird morgen Nachmittag die Ware liefern."
+        },
+        {
+          "id": "q3",
+          "type": "choose",
+          "question": "Chọn bản dịch đúng cho: \"Der LKW wird morgen Nachmittag die Ware liefe...\"",
+          "options": [
+            "Xe tải sẽ giao hàng vào chiều mai.",
+            "Giá này hơi cao.",
+            "Cảm ơn bạn đã sử dụng dịch vụ.",
+            "Tôi đã chuyển khoản 2 triệu rồi."
+          ],
+          "correct": "Xe tải sẽ giao hàng vào chiều mai.",
+          "de": "Der LKW wird morgen Nachmittag die Ware liefern."
+        }
+      ]
+    },
+    {
+      "id": "cn_26",
+      "title": "Bài 26: Cảm ơn dịch vụ - Danke für den Service",
+      "status": "completed",
+      "type": "translation",
+      "topic": "Dịch vụ",
+      "transcript": "Vielen Dank, dass Sie unseren Service genutzt haben.",
+      "transcript_vi": "Cảm ơn bạn đã sử dụng dịch vụ của chúng tôi.",
+      "transcript_de": "Vielen Dank, dass Sie unseren Service genutzt haben.",
+      "vi": "Cảm ơn bạn đã sử dụng dịch vụ của chúng tôi.",
+      "en": "Vielen Dank, dass Sie unseren Service genutzt haben.",
+      "de": "Vielen Dank, dass Sie unseren Service genutzt haben.",
+      "dialogues": [
+        {
+          "speaker": "A",
+          "name": "Tuan",
+          "en": "Vielen Dank, dass Sie unseren Service genutzt haben.",
+          "vi": "Cảm ơn bạn đã sử dụng dịch vụ của chúng tôi.",
+          "de": "Vielen Dank, dass Sie unseren Service genutzt haben."
+        },
+        {
+          "speaker": "B",
+          "name": "Lisa",
+          "en": "Gern geschehen! Ich komme wieder.",
+          "vi": "Không có gì! Tôi sẽ quay lại.",
+          "de": "Gern geschehen! Ich komme wieder."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "type": "vi_to_de",
+          "question": "Dịch sang tiếng Đức: \"Cảm ơn bạn đã sử dụng dịch vụ của chúng tôi.\"",
+          "options": [
+            "Vielen Dank, dass Sie unseren Service genutzt haben.",
+            "Ich habe 2 Millionen per Überweisung geschickt.",
+            "Dieses Produkt ist defekt.",
+            "Ich habe mich für einen Online-Kurs angemeldet."
+          ],
+          "correct": "Vielen Dank, dass Sie unseren Service genutzt haben.",
+          "vi": "Cảm ơn bạn đã sử dụng dịch vụ của chúng tôi.",
+          "de": "Vielen Dank, dass Sie unseren Service genutzt haben."
+        },
+        {
+          "id": "q2",
+          "type": "de_to_vi",
+          "question": "Dịch sang tiếng Việt: \"Vielen Dank, dass Sie unseren Service genutzt haben.\"",
+          "options": [
+            "Cảm ơn bạn đã sử dụng dịch vụ của chúng tôi.",
+            "Tôi đã chuyển khoản 2 triệu rồi.",
+            "Sản phẩm này bị lỗi.",
+            "Tôi đã đăng ký khóa học tiếng Anh online buổi tối."
+          ],
+          "correct": "Cảm ơn bạn đã sử dụng dịch vụ của chúng tôi.",
+          "de": "Vielen Dank, dass Sie unseren Service genutzt haben."
+        },
+        {
+          "id": "q3",
+          "type": "choose",
+          "question": "Chọn bản dịch đúng cho: \"Vielen Dank, dass Sie unseren Service genutzt...\"",
+          "options": [
+            "Cảm ơn bạn đã sử dụng dịch vụ của chúng tôi.",
+            "Tôi đã chuyển khoản 2 triệu rồi.",
+            "Sản phẩm này bị lỗi.",
+            "Tôi đã đăng ký khóa học tiếng Anh online buổi tối."
+          ],
+          "correct": "Cảm ơn bạn đã sử dụng dịch vụ của chúng tôi.",
+          "de": "Vielen Dank, dass Sie unseren Service genutzt haben."
+        }
+      ]
+    },
+    {
+      "id": "cn_27",
+      "title": "Bài 27: Chuyển khoản - Ich habe überwiesen",
+      "status": "completed",
+      "type": "translation",
+      "topic": "Tài chính",
+      "transcript": "Ich habe bereits 2 Millionen per Überweisung geschickt.",
+      "transcript_vi": "Tôi đã chuyển khoản 2 triệu rồi.",
+      "transcript_de": "Ich habe bereits 2 Millionen per Überweisung geschickt.",
+      "vi": "Tôi đã chuyển khoản 2 triệu rồi.",
+      "en": "Ich habe bereits 2 Millionen per Überweisung geschickt.",
+      "de": "Ich habe bereits 2 Millionen per Überweisung geschickt.",
+      "dialogues": [
+        {
+          "speaker": "A",
+          "name": "Tuan",
+          "en": "Ich habe bereits 2 Millionen per Überweisung geschickt.",
+          "vi": "Tôi đã chuyển khoản 2 triệu rồi.",
+          "de": "Ich habe bereits 2 Millionen per Überweisung geschickt."
+        },
+        {
+          "speaker": "B",
+          "name": "Lisa",
+          "en": "Alles klar, ich habe den Eingang erhalten.",
+          "vi": "Rồi, tôi đã nhận được tiền rồi.",
+          "de": "Alles klar, ich habe den Eingang erhalten."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "type": "vi_to_de",
+          "question": "Dịch sang tiếng Đức: \"Tôi đã chuyển khoản 2 triệu rồi.\"",
+          "options": [
+            "Ich habe bereits 2 Millionen per Überweisung geschickt.",
+            "Vielen Dank für den Service.",
+            "Dieses Produkt ist defekt, ich möchte umtauschen.",
+            "Ich habe mich für einen Online-Kurs angemeldet."
+          ],
+          "correct": "Ich habe bereits 2 Millionen per Überweisung geschickt.",
+          "vi": "Tôi đã chuyển khoản 2 triệu rồi.",
+          "de": "Ich habe bereits 2 Millionen per Überweisung geschickt."
+        },
+        {
+          "id": "q2",
+          "type": "de_to_vi",
+          "question": "Dịch sang tiếng Việt: \"Ich habe bereits 2 Millionen per Überweisung geschickt.\"",
+          "options": [
+            "Tôi đã chuyển khoản 2 triệu rồi.",
+            "Cảm ơn bạn đã sử dụng dịch vụ.",
+            "Sản phẩm này bị lỗi, tôi muốn đổi hoặc hoàn tiền.",
+            "Tôi đã đăng ký khóa học tiếng Anh online."
+          ],
+          "correct": "Tôi đã chuyển khoản 2 triệu rồi.",
+          "de": "Ich habe bereits 2 Millionen per Überweisung geschickt."
+        },
+        {
+          "id": "q3",
+          "type": "choose",
+          "question": "Chọn bản dịch đúng cho: \"Ich habe bereits 2 Millionen per Überweisung ...\"",
+          "options": [
+            "Tôi đã chuyển khoản 2 triệu rồi.",
+            "Cảm ơn bạn đã sử dụng dịch vụ.",
+            "Sản phẩm này bị lỗi, tôi muốn đổi hoặc hoàn tiền.",
+            "Tôi đã đăng ký khóa học tiếng Anh online."
+          ],
+          "correct": "Tôi đã chuyển khoản 2 triệu rồi.",
+          "de": "Ich habe bereits 2 Millionen per Überweisung geschickt."
+        }
+      ]
+    },
+    {
+      "id": "cn_28",
+      "title": "Bài 28: Đổi trả hàng lỗi - Dieses Produkt ist defekt",
+      "status": "completed",
+      "type": "translation",
+      "topic": "Mua sắm",
+      "transcript": "Dieses Produkt ist defekt, ich möchte es umtauschen oder eine Rückerstattung bekommen.",
+      "transcript_vi": "Sản phẩm này bị lỗi, tôi muốn đổi hoặc được hoàn tiền.",
+      "transcript_de": "Dieses Produkt ist defekt, ich möchte es umtauschen oder eine Rückerstattung bekommen.",
+      "vi": "Sản phẩm này bị lỗi, tôi muốn đổi hoặc được hoàn tiền.",
+      "en": "Dieses Produkt ist defekt, ich möchte es umtauschen oder eine Rückerstattung bekommen.",
+      "de": "Dieses Produkt ist defekt, ich möchte es umtauschen oder eine Rückerstattung bekommen.",
+      "dialogues": [
+        {
+          "speaker": "A",
+          "name": "Tuan",
+          "en": "Dieses Produkt ist defekt, ich möchte es umtauschen oder eine Rückerstattung bekommen.",
+          "vi": "Sản phẩm này bị lỗi, tôi muốn đổi hoặc được hoàn tiền.",
+          "de": "Dieses Produkt ist defekt, ich möchte es umtauschen oder eine Rückerstattung bekommen."
+        },
+        {
+          "speaker": "B",
+          "name": "Lisa",
+          "en": "Kein Problem, haben Sie den Kassenbon?",
+          "vi": "Không vấn đề, bạn có hóa đơn không?",
+          "de": "Kein Problem, haben Sie den Kassenbon?"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "type": "vi_to_de",
+          "question": "Dịch sang tiếng Đức: \"Sản phẩm này bị lỗi, tôi muốn đổi hoặc được hoàn tiền.\"",
+          "options": [
+            "Dieses Produkt ist defekt, ich möchte es umtauschen oder eine Rückerstattung bekommen.",
+            "Ich habe einen Laden eröffnet.",
+            "Wir machen Gruppenhausaufgaben in der Bibliothek.",
+            "Ich fahre mit dem Traktor."
+          ],
+          "correct": "Dieses Produkt ist defekt, ich möchte es umtauschen oder eine Rückerstattung bekommen.",
+          "vi": "Sản phẩm này bị lỗi, tôi muốn đổi hoặc được hoàn tiền.",
+          "de": "Dieses Produkt ist defekt, ich möchte es umtauschen oder eine Rückerstattung bekommen."
+        },
+        {
+          "id": "q2",
+          "type": "de_to_vi",
+          "question": "Dịch sang tiếng Việt: \"Dieses Produkt ist defekt, ich möchte es umtauschen oder eine Rückerstattung bekommen.\"",
+          "options": [
+            "Sản phẩm này bị lỗi, tôi muốn đổi hoặc được hoàn tiền.",
+            "Tôi vừa mở cửa hàng.",
+            "Chúng tôi làm bài tập nhóm ở thư viện.",
+            "Tôi lái máy cày."
+          ],
+          "correct": "Sản phẩm này bị lỗi, tôi muốn đổi hoặc được hoàn tiền.",
+          "de": "Dieses Produkt ist defekt, ich möchte es umtauschen oder eine Rückerstattung bekommen."
+        },
+        {
+          "id": "q3",
+          "type": "choose",
+          "question": "Chọn bản dịch đúng cho: \"Dieses Produkt ist defekt, ich möchte es umta...\"",
+          "options": [
+            "Sản phẩm này bị lỗi, tôi muốn đổi hoặc được hoàn tiền.",
+            "Tôi vừa mở cửa hàng.",
+            "Chúng tôi làm bài tập nhóm ở thư viện.",
+            "Tôi lái máy cày."
+          ],
+          "correct": "Sản phẩm này bị lỗi, tôi muốn đổi hoặc được hoàn tiền.",
+          "de": "Dieses Produkt ist defekt, ich möchte es umtauschen oder eine Rückerstattung bekommen."
+        }
+      ]
+    },
+    {
+      "id": "cn_29",
+      "title": "Bài 29: Đăng ký khóa học - Ich habe mich angemeldet",
+      "status": "completed",
+      "type": "translation",
+      "topic": "Học tập",
+      "transcript": "Ich habe mich für einen Online-Deutschkurs am Abend angemeldet.",
+      "transcript_vi": "Tôi đã đăng ký khóa học tiếng Đức online buổi tối.",
+      "transcript_de": "Ich habe mich für einen Online-Deutschkurs am Abend angemeldet.",
+      "vi": "Tôi đã đăng ký khóa học tiếng Đức online buổi tối.",
+      "en": "Ich habe mich für einen Online-Deutschkurs am Abend angemeldet.",
+      "de": "Ich habe mich für einen Online-Deutschkurs am Abend angemeldet.",
+      "dialogues": [
+        {
+          "speaker": "A",
+          "name": "Tuan",
+          "en": "Ich habe mich für einen Online-Deutschkurs am Abend angemeldet.",
+          "vi": "Tôi đã đăng ký khóa học tiếng Đức online buổi tối.",
+          "de": "Ich habe mich für einen Online-Deutschkurs am Abend angemeldet."
+        },
+        {
+          "speaker": "B",
+          "name": "Lisa",
+          "en": "Super, wann beginnt der Kurs?",
+          "vi": "Tuyệt, khi nào khóa học bắt đầu?",
+          "de": "Super, wann beginnt der Kurs?"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "type": "vi_to_de",
+          "question": "Dịch sang tiếng Đức: \"Tôi đã đăng ký khóa học tiếng Đức online buổi tối.\"",
+          "options": [
+            "Ich habe mich für einen Online-Deutschkurs am Abend angemeldet.",
+            "Dieses Produkt ist defekt.",
+            "Wir machen Gruppenhausaufgaben in der Bibliothek.",
+            "Ich fahre mit dem Traktor auf dem Feld."
+          ],
+          "correct": "Ich habe mich für einen Online-Deutschkurs am Abend angemeldet.",
+          "vi": "Tôi đã đăng ký khóa học tiếng Đức online buổi tối.",
+          "de": "Ich habe mich für einen Online-Deutschkurs am Abend angemeldet."
+        },
+        {
+          "id": "q2",
+          "type": "de_to_vi",
+          "question": "Dịch sang tiếng Việt: \"Ich habe mich für einen Online-Deutschkurs am Abend angemeldet.\"",
+          "options": [
+            "Tôi đã đăng ký khóa học tiếng Đức online buổi tối.",
+            "Sản phẩm này bị lỗi.",
+            "Chúng tôi làm bài tập nhóm ở thư viện.",
+            "Tôi lái máy cày trên đồng."
+          ],
+          "correct": "Tôi đã đăng ký khóa học tiếng Đức online buổi tối.",
+          "de": "Ich habe mich für einen Online-Deutschkurs am Abend angemeldet."
+        },
+        {
+          "id": "q3",
+          "type": "choose",
+          "question": "Chọn bản dịch đúng cho: \"Ich habe mich für einen Online-Deutschkurs am...\"",
+          "options": [
+            "Tôi đã đăng ký khóa học tiếng Đức online buổi tối.",
+            "Sản phẩm này bị lỗi.",
+            "Chúng tôi làm bài tập nhóm ở thư viện.",
+            "Tôi lái máy cày trên đồng."
+          ],
+          "correct": "Tôi đã đăng ký khóa học tiếng Đức online buổi tối.",
+          "de": "Ich habe mich für einen Online-Deutschkurs am Abend angemeldet."
+        }
+      ]
+    },
+    {
+      "id": "cn_30",
+      "title": "Bài 30: Làm bài tập nhóm - Wir machen Gruppenhausaufgaben",
+      "status": "completed",
+      "type": "translation",
+      "topic": "Học tập",
+      "transcript": "Wir machen Gruppenhausaufgaben in der Bibliothek.",
+      "transcript_vi": "Chúng tôi làm bài tập nhóm ở thư viện.",
+      "transcript_de": "Wir machen Gruppenhausaufgaben in der Bibliothek.",
+      "vi": "Chúng tôi làm bài tập nhóm ở thư viện.",
+      "en": "Wir machen Gruppenhausaufgaben in der Bibliothek.",
+      "de": "Wir machen Gruppenhausaufgaben in der Bibliothek.",
+      "dialogues": [
+        {
+          "speaker": "A",
+          "name": "Tuan",
+          "en": "Wir machen Gruppenhausaufgaben in der Bibliothek.",
+          "vi": "Chúng tôi làm bài tập nhóm ở thư viện.",
+          "de": "Wir machen Gruppenhausaufgaben in der Bibliothek."
+        },
+        {
+          "speaker": "B",
+          "name": "Lisa",
+          "en": "Kann ich mitmachen? Ich brauche auch Hilfe.",
+          "vi": "Mình tham gia được không? Mình cũng cần giúp.",
+          "de": "Kann ich mitmachen? Ich brauche auch Hilfe."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "type": "vi_to_de",
+          "question": "Dịch sang tiếng Đức: \"Chúng tôi làm bài tập nhóm ở thư viện.\"",
+          "options": [
+            "Wir machen Gruppenhausaufgaben in der Bibliothek.",
+            "Ich habe mich für einen Online-Kurs angemeldet.",
+            "Dieses Produkt ist defekt.",
+            "Ich habe 2 Millionen überwiesen."
+          ],
+          "correct": "Wir machen Gruppenhausaufgaben in der Bibliothek.",
+          "vi": "Chúng tôi làm bài tập nhóm ở thư viện.",
+          "de": "Wir machen Gruppenhausaufgaben in der Bibliothek."
+        },
+        {
+          "id": "q2",
+          "type": "de_to_vi",
+          "question": "Dịch sang tiếng Việt: \"Wir machen Gruppenhausaufgaben in der Bibliothek.\"",
+          "options": [
+            "Chúng tôi làm bài tập nhóm ở thư viện.",
+            "Tôi đã đăng ký khóa học online.",
+            "Sản phẩm này bị lỗi.",
+            "Tôi đã chuyển khoản 2 triệu rồi."
+          ],
+          "correct": "Chúng tôi làm bài tập nhóm ở thư viện.",
+          "de": "Wir machen Gruppenhausaufgaben in der Bibliothek."
+        },
+        {
+          "id": "q3",
+          "type": "choose",
+          "question": "Chọn bản dịch đúng cho: \"Wir machen Gruppenhausaufgaben in der Bibliot...\"",
+          "options": [
+            "Chúng tôi làm bài tập nhóm ở thư viện.",
+            "Tôi đã đăng ký khóa học online.",
+            "Sản phẩm này bị lỗi.",
+            "Tôi đã chuyển khoản 2 triệu rồi."
+          ],
+          "correct": "Chúng tôi làm bài tập nhóm ở thư viện.",
+          "de": "Wir machen Gruppenhausaufgaben in der Bibliothek."
+        }
+      ]
+    }
+  ],
+  "total": 30
+}
